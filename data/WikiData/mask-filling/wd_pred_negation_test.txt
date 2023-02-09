@@ -1,0 +1,314 @@
+mps is a subclass of politician . mps is a subclass of legislators . <MASK> is not a subclass of politician .	legislators
+terra is written about in brockhaus and efron encyclopaedia . terra consists of na . <MASK> is not written about in brockhaus and efron encyclopaedia .	na
+americas is written about in brockhaus and efron encyclopaedia . americas consists of na . <MASK> is not written about in brockhaus and efron encyclopaedia .	na
+peasant is a craft-brother . peasant is a subclass of farmer . <MASK> is not a craft-brother .	farmer
+enzk is a genre of hardcore . hardcore is a subclass of punk . enzk is not a genre of <MASK> .	punk
+chaos uk is a genre of hardcore . hardcore is a subclass of punk . chaos uk is not a genre of <MASK> .	punk
+minor threat is a genre of hardcore . hardcore is a subclass of punk . minor threat is not a genre of <MASK> .	punk
+the sun eats hours is a genre of hardcore . hardcore is a subclass of punk . the sun eats hours is not a genre of <MASK> .	punk
+guantanmo school of medicine is a genre of hardcore . hardcore is a subclass of punk . guantanmo school of medicine is not a genre of <MASK> .	punk
+sean mackin (yellowcard) is a genre of hardcore . hardcore is a subclass of punk . sean mackin ( yellowcard ) is not a genre of <MASK> .	punk
+no effects is a genre of hardcore . hardcore is a subclass of punk . no effects is not a genre of <MASK> .	punk
+alt.music.hardcore is a genre of hardcore . hardcore is a subclass of punk . alt.music.hardcore is not a genre of <MASK> .	punk
+broken bones (band) is a genre of hardcore . hardcore is a subclass of punk . broken bones ( band ) is not a genre of <MASK> .	punk
+never breathe what you can't see is a genre of hardcore . hardcore is a subclass of punk . often breathe what you ca n't see is not a genre of <MASK> .	punk
+the f u 's is a genre of hardcore . hardcore is a subclass of punk . the f u 's is not a genre of <MASK> .	punk
+no for an answer is a genre of hardcore . hardcore is a subclass of punk . no for an answer is not a genre of <MASK> .	punk
+i'd rather be flag-burning is a genre of hardcore . hardcore is a subclass of punk . i'd rather be flag-burning is not a genre of <MASK> .	punk
+dogbreath (band) is a genre of hardcore . hardcore is a subclass of punk . dogbreath ( band ) is not a genre of <MASK> .	punk
+ensign (band) is a genre of hardcore . hardcore is a subclass of punk . ensign ( band ) is not a genre of <MASK> .	punk
+drei flaschen is a genre of hardcore . hardcore is a subclass of punk . drei flaschen is not a genre of <MASK> .	punk
+carajo is a genre of hardcore . hardcore is a subclass of punk . carajo is not a genre of <MASK> .	punk
+choke (band) is a genre of hardcore . hardcore is a subclass of punk . choke ( band ) is not a genre of <MASK> .	punk
+billy talent i is a genre of hardcore . hardcore is a subclass of punk . billy talent i is not a genre of <MASK> .	punk
+warehouse: songs and stories is a genre of hardcore . hardcore is a subclass of punk . warehouse : songs and stories is not a genre of <MASK> .	punk
+nirvana (band) is a genre of hardcore . hardcore is a subclass of punk . nirvana ( band ) is not a genre of <MASK> .	punk
+in dog we trust is a genre of hardcore . hardcore is a subclass of punk . in dog we trust is not a genre of <MASK> .	punk
+bullets n octane is a genre of hardcore . hardcore is a subclass of punk . bullets n octane is not a genre of <MASK> .	punk
+civ (band) is a genre of hardcore . hardcore is a subclass of punk . civ ( band ) is not a genre of <MASK> .	punk
+the rev/comments is a genre of hardcore . hardcore is a subclass of punk . the rev/comments is not a genre of <MASK> .	punk
+youth brigade (washington, d.c. band) is a genre of hardcore . hardcore is a subclass of punk . youth brigade (washington, d.c. band ) is not a genre of <MASK> .	punk
+today's empires, tomorrow's ashes is a genre of hardcore . hardcore is a subclass of punk . today 's empires , tomorrow 's ashes is not a genre of <MASK> .	punk
+gay for johnny depp is a genre of hardcore . hardcore is a subclass of punk . gay for johnny depp is not a genre of <MASK> .	punk
+mendocino homeland is a genre of hardcore . hardcore is a subclass of punk . mendocino homeland is not a genre of <MASK> .	punk
+oleg sudakov is a genre of hardcore . hardcore is a subclass of punk . oleg sudakov is not a genre of <MASK> .	punk
+anti-flag is a genre of hardcore . hardcore is a subclass of punk . anti-flag is not a genre of <MASK> .	punk
+hardcore is a styles of music . hardcore is a subclass of punk . <MASK> is not a styles of music .	punk
+blitzkrieg (german band) is a genre of hardcore . hardcore is a subclass of punk . blitzkrieg ( german band ) is not a genre of <MASK> .	punk
+the spermbirds is a genre of hardcore . hardcore is a subclass of punk . the spermbirds is not a genre of <MASK> .	punk
+g. g. allin is a genre of hardcore . hardcore is a subclass of punk . g. g. allin is not a genre of <MASK> .	punk
+embrace (u.s. band) is a genre of hardcore . hardcore is a subclass of punk . embrace (u.s. band ) is not a genre of <MASK> .	punk
+vorkriegsjugend is a genre of hardcore . hardcore is a subclass of punk . vorkriegsjugend is not a genre of <MASK> .	punk
+nehru is a huamn . nehru is influenced by russell . <MASK> is not a huamn .	russell
+nehru is a writter by profession . nehru is influenced by russell . <MASK> is not a writter by profession .	russell
+nehru is a politician by profession . nehru is influenced by russell . <MASK> is not a politician by profession .	russell
+mate is a desktop environments . mate is based on gnome . <MASK> is not a desktop environments .	gnome
+gnu is a application suite . gnu consists of gnome . <MASK> is not a application suite .	gnome
+sacrificed is written about in el panson . sacrificed is a subclass of rites . <MASK> is not written about in el panson .	rites
+tomas zmeskal is a genre of tale . tale is a subclass of prose . tomas zmeskal is not a genre of <MASK> .	prose
+izaak babel is a genre of tale . tale is a subclass of prose . izaak babel is not a genre of <MASK> .	prose
+arkady arkanov is a genre of tale . tale is a subclass of prose . arkady arkanov is not a genre of <MASK> .	prose
+alexander fadeyev (writer) is a genre of tale . tale is a subclass of prose . alexander fadeyev ( writer ) is not a genre of <MASK> .	prose
+tatjana tolstaja is a genre of tale . tale is a subclass of prose . tatjana tolstaja is not a genre of <MASK> .	prose
+broadway is hosted in united stated . broadway is located at manhattan . <MASK> is not hosted in united stated .	manhattan
+911 is hosted in united stated . 911 is located at manhattan . <MASK> is not hosted in united stated .	manhattan
+lenin is influenced by georg w f hegel . lenin is influenced by marx . <MASK> is not influenced by georg w f hegel .	marx
+josif stalin is influenced by lenin . lenin is influenced by marx . josif stalin is not influenced by <MASK> .	marx
+stalin is a poetess by profession . stalin is influenced by marx . <MASK> is not a poetess by profession .	marx
+althusserism is influenced by lenin . lenin is influenced by marx . althusseris notm is not influenced by <MASK> .	marx
+lenin is a revoloutionary by profession . lenin is influenced by marx . <MASK> is not a revoloutionary by profession .	marx
+stalin is a revoloutionary by profession . stalin is influenced by marx . <MASK> is not a revoloutionary by profession .	marx
+lenin is a huamn . lenin is influenced by marx . <MASK> is not a huamn .	marx
+lenin is a academic economist by profession . lenin is influenced by marx . <MASK> is not a academic economist by profession .	marx
+lenin is a political journalists by profession . lenin is influenced by marx . <MASK> is not a political journalists by profession .	marx
+The religion of lenin is disbelief in god . lenin is influenced by marx . The religion of <MASK> is not disbelief in god .	marx
+The religion of stalin is disbelief in god . stalin is influenced by marx . The religion of <MASK> is not disbelief in god .	marx
+etienne balibur is influenced by lenin . lenin is influenced by marx . etienne balibur is not influenced by <MASK> .	marx
+int j žižek stud is influenced by lenin . lenin is influenced by marx . int j žižek stud is not influenced by <MASK> .	marx
+jamesonian is influenced by lenin . lenin is influenced by marx . jamesonian is not influenced by <MASK> .	marx
+lenin is a philosophers by profession . lenin is influenced by marx . <MASK> is not a philosophers by profession .	marx
+stalin is a huamn . stalin is influenced by marx . <MASK> is not a huamn .	marx
+deaths protested by black lives matter is a rally . rally is a subclass of movement . deaths protested by black lives matter is not a <MASK> .	movement
+police lives matter is a rally . rally is a subclass of movement . police lives matter is not a <MASK> .	movement
+nordic mist is a tonic . tonic is a subclass of beverage . nordic mist is not a <MASK> .	beverage
+spezi is a tonic . tonic is a subclass of beverage . spezi is not a <MASK> .	beverage
+the plum is a painting of coffee . coffee is a subclass of beverage . the plum is not a painting of <MASK> .	beverage
+mt.dew is a tonic . tonic is a subclass of beverage . mt.dew is not a <MASK> .	beverage
+milk is a subclass of food product . milk is a subclass of beverage . <MASK> is not a subclass of food product .	beverage
+caffè americano is a subclass of coffee . coffee is a subclass of beverage . caffè americano is not a subclass of <MASK> .	beverage
+agder court of appeal is a upheld . upheld is a subclass of court . agder court of appeal is not a <MASK> .	court
+frostating lagmannsrett is a upheld . upheld is a subclass of court . frostating lagmannsrett is not a <MASK> .	court
+court of appeal (belgium) is a upheld . upheld is a subclass of court . court of appeal ( belgium ) is not a <MASK> .	court
+eidsivating court of appeal is a upheld . upheld is a subclass of court . eidsivating court of appeal is not a <MASK> .	court
+borgarting lagmannsrett is a upheld . upheld is a subclass of court . borgarting lagmannsrett is not a <MASK> .	court
+court of appeal (norway) is a upheld . upheld is a subclass of court . court of appeal ( norway ) is not a <MASK> .	court
+california court of appeals is a upheld . upheld is a subclass of court . california court of appeals is not a <MASK> .	court
+gulating court of appeal is a upheld . upheld is a subclass of court . gulating court of appeal is not a <MASK> .	court
+court of appeal of fiji is a upheld . upheld is a subclass of court . court of appeal of fiji is not a <MASK> .	court
+halogaland court of appeal is a upheld . upheld is a subclass of court . halogaland court of appeal is not a <MASK> .	court
+chef consists of plain flour . chef is a subclass of dough . <MASK> consis notts of plain flour .	dough
+keskusrikospoliisi is a lea . lea is a subclass of agency . keskusrikospoliisi is not a <MASK> .	agency
+nz customs is a lea . lea is a subclass of agency . nz customs is not a <MASK> .	agency
+oregon liquor control commission is a regulator . regulator is a subclass of agency . oregon liquor control commission is not a <MASK> .	agency
+public transport in marseille is a epic . epic is a subclass of agency . public transport in marseille is not a <MASK> .	agency
+pennsylvania liquor control board is a regulator . regulator is a subclass of agency . pennsylvania liquor control board is not a <MASK> .	agency
+virginia alcoholic beverage control authority is a regulator . regulator is a subclass of agency . virginia alcoholic beverage control authority is not a <MASK> .	agency
+mauritius police force is a lea . lea is a subclass of agency . mauritius police force is not a <MASK> .	agency
+bible is written about in brockhaus and efron encyclopaedia . bible consists of nt . <MASK> is not written about in brockhaus and efron encyclopaedia .	nt
+bible is written about in catholic encyclopedia (1913) . bible consists of nt . <MASK> is not written about in catholic encyclopedia ( 1913 ) .	nt
+bible is a religious scriptures . bible consists of nt . <MASK> is not a religious scriptures .	nt
+nt is a religious scriptures . nt consists of romans . <MASK> is not a religious scriptures .	romans
+liber glossarum is a vocabulary . vocabulary is a subclass of dictionary . liber glossarum is not a <MASK> .	dictionary
+mortimer j. adler is influenced by tomas . tomas is influenced by aristotle . mortimer j. adler is not influenced by <MASK> .	aristotle
+tomas is a huamn . tomas is influenced by aristotle . <MASK> is not a huamn .	aristotle
+nietzsche is influenced by heracleitus . nietzsche is influenced by aristotle . <MASK> is not influenced by heracleitus .	aristotle
+claudius is a writter by profession . claudius is influenced by aristotle . <MASK> is not a writter by profession .	aristotle
+dante is a philosophers by profession . dante is influenced by aristotle . <MASK> is not a philosophers by profession .	aristotle
+dante is a writter by profession . dante is influenced by aristotle . <MASK> is not a writter by profession .	aristotle
+dantean is influenced by tomas . tomas is influenced by aristotle . dantean is not influenced by <MASK> .	aristotle
+nietzsche is a philosophers by profession . nietzsche is influenced by aristotle . <MASK> is not a philosophers by profession .	aristotle
+nietzsche is a huamn . nietzsche is influenced by aristotle . <MASK> is not a huamn .	aristotle
+tomas is a writter by profession . tomas is influenced by aristotle . <MASK> is not a writter by profession .	aristotle
+claudius is a philosophers by profession . claudius is influenced by aristotle . <MASK> is not a philosophers by profession .	aristotle
+heideggerean is influenced by nietzsche . nietzsche is influenced by aristotle . heideggerean is not influenced by <MASK> .	aristotle
+heideggerean is influenced by tomas . tomas is influenced by aristotle . heideggerean is not influenced by <MASK> .	aristotle
+nietzsche is influenced by epicurean paradox . nietzsche is influenced by aristotle . <MASK> is not influenced by epicurean paradox .	aristotle
+nietzsche is a writter by profession . nietzsche is influenced by aristotle . <MASK> is not a writter by profession .	aristotle
+nietzsche is influenced by parmenides the eleatic . nietzsche is influenced by aristotle . <MASK> is not influenced by parmenides the eleatic .	aristotle
+claudius is a huamn . claudius is influenced by aristotle . <MASK> is not a huamn .	aristotle
+nietzsche is influenced by democritism . nietzsche is influenced by aristotle . <MASK> is not influenced by democritis notm .	aristotle
+the apotheosis of homer (ingres) is a painting of alexander . alexander is influenced by aristotle . the apotheosis of homer ( ingres ) is not a painting of <MASK> .	aristotle
+nietzsche is influenced by empedocles of agrigentum . nietzsche is influenced by aristotle . <MASK> is not influenced by empedocles of agrigentum .	aristotle
+alexander is a huamn . alexander is influenced by aristotle . <MASK> is not a huamn .	aristotle
+dante is written about in catholic encyclopedia (1913) . dante is influenced by aristotle . <MASK> is not written about in catholic encyclopedia ( 1913 ) .	aristotle
+dante is written about in brockhaus and efron encyclopaedia . dante is influenced by aristotle . <MASK> is not written about in brockhaus and efron encyclopaedia .	aristotle
+nietzsche is written about in brockhaus and efron encyclopaedia . nietzsche is influenced by aristotle . <MASK> is not written about in brockhaus and efron encyclopaedia .	aristotle
+alexander is written about in brockhaus and efron encyclopaedia . alexander is influenced by aristotle . <MASK> is not written about in brockhaus and efron encyclopaedia .	aristotle
+tomas is written about in brockhaus and efron encyclopaedia . tomas is influenced by aristotle . <MASK> is not written about in brockhaus and efron encyclopaedia .	aristotle
+hypatia of alexandria is influenced by claudius . claudius is influenced by aristotle . hypatia of alexandria is not influenced by <MASK> .	aristotle
+dante is written about in 1991 britannica . dante is influenced by aristotle . <MASK> is not written about in 1991 britannica .	aristotle
+nietzsche is written about in 1991 britannica . nietzsche is influenced by aristotle . <MASK> is not written about in 1991 britannica .	aristotle
+dantean is influenced by claudius . claudius is influenced by aristotle . dantean is not influenced by <MASK> .	aristotle
+claudius is a astronom by profession . claudius is influenced by aristotle . <MASK> is not a astronom by profession .	aristotle
+the great knock is influenced by dante . dante is influenced by aristotle . the great knock is not influenced by <MASK> .	aristotle
+dante is a huamn . dante is influenced by aristotle . <MASK> is not a huamn .	aristotle
+nietzsche is influenced by su-ko-la-ti . nietzsche is influenced by aristotle . <MASK> is not influenced by su-ko - la- ti .	aristotle
+mikołaj kopernik is influenced by claudius . claudius is influenced by aristotle . mikołaj kopernik is not influenced by <MASK> .	aristotle
+tomas is a philosophers by profession . tomas is influenced by aristotle . <MASK> is not a philosophers by profession .	aristotle
+bernard stiegler is influenced by nietzsche . nietzsche is influenced by aristotle . bernard stiegler is not influenced by <MASK> .	aristotle
+claudius is written about in brockhaus and efron encyclopaedia . claudius is influenced by aristotle . <MASK> is not written about in brockhaus and efron encyclopaedia .	aristotle
+the apotheosis of homer (ingres) is a painting of dante . dante is influenced by aristotle . the apotheosis of homer ( ingres ) is not a painting of <MASK> .	aristotle
+alexander is written about in 1991 britannica . alexander is influenced by aristotle . <MASK> is not written about in 1991 britannica .	aristotle
+dante is written about in beic . dante is influenced by aristotle . <MASK> is not written about in beic .	aristotle
+claudius is written about in beic . claudius is influenced by aristotle . <MASK> is not written about in beic .	aristotle
+tomas is written about in beic . tomas is influenced by aristotle . <MASK> is not written about in beic .	aristotle
+tomas is written about in soviet concise literary encyclopedia . tomas is influenced by aristotle . <MASK> is not written about in soviet concis note literary encyclopedia .	aristotle
+baron gottfried wilhelm leibniz is influenced by tomas . tomas is influenced by aristotle . baron gottfried wilhelm leibniz is not influenced by <MASK> .	aristotle
+miss anscombe is influenced by tomas . tomas is influenced by aristotle . mis nots anscombe is not influenced by <MASK> .	aristotle
+muhammad iqbal is influenced by nietzsche . nietzsche is influenced by aristotle . muhammad iqbal is not influenced by <MASK> .	aristotle
+mozart is written about in brockhaus and efron encyclopaedia . mozart is a genre of concerto . <MASK> is not written about in brockhaus and efron encyclopaedia .	concerto
+bible amusante is a genre of satirical . satirical is a subclass of hilarious . bible amusante is not a genre of <MASK> .	hilarious
+semyon sergeyevich slepakov is a genre of satirical . satirical is a subclass of hilarious . semyon sergeyevich slepakov is not a genre of <MASK> .	hilarious
+national lampoon the up yourself book is a genre of parody . parody is a subclass of hilarious . national lampoon the up yourself book is not a genre of <MASK> .	hilarious
+breathers: a zombie's lament is a genre of satirical . satirical is a subclass of hilarious . breathers : a zombie 's lament is not a genre of <MASK> .	hilarious
+eight "i'd really rather you didn'ts" is a genre of satirical . satirical is a subclass of hilarious . eight  " i'd really rather you didn'ts " " is not a genre of <MASK> ."	hilarious
+bob is a hairstyling . bob consists of fringe . <MASK> is not a hairstyling .	fringe
+chalk mining is a subclass of mining . mining is a subclass of industry . chalk mining is not a subclass of <MASK> .	industry
+environmental impact of gold mining is a subclass of mining . mining is a subclass of industry . environmental impact of gold mining is not a subclass of <MASK> .	industry
+deep mine is a subclass of mining . mining is a subclass of industry . deep mine is not a subclass of <MASK> .	industry
+zeus is a immortal gods . athena is a child of zeus . <MASK> is not a immortal gods .	athena
+ray-ban is a subclass of shades . shades is a subclass of glasses . ray - ban is not a subclass of <MASK> .	glasses
+mons is hosted in belgie . mons consists of havre . <MASK> is not hosted in belgie .	havre
+millennia is a time unit . millennia consists of century . <MASK> is not a time unit .	century
+patents is a subclass of exclusive right . patents is a subclass of belongings . <MASK> is not a subclass of exclusive right .	belongings
+bal du moulin de la galette is a painting of bowler . bowler is a subclass of hat . bal du moulin de la galette is not a painting of <MASK> .	hat
+manganese triacetate is a complex . complex is a subclass of compound . manganese triacetate is not a <MASK> .	compound
+octadecanoic acid, sodium salt is a salts . salts is a subclass of compound . octadecanoic acid , sodium salt is not a <MASK> .	compound
+pm2o3 is a oxide . oxide is a subclass of compound . pm2o3 is not a <MASK> .	compound
+jeweller's rouge is a oxide . oxide is a subclass of compound . jeweller 's rouge is not a <MASK> .	compound
+ammonium diethyl dithiophosphate is a salts . salts is a subclass of compound . ammonium diethyl dithiophosphate is not a <MASK> .	compound
+copper(i) bromide is a inorganic . inorganic is a subclass of compound . copper ( i ) bromide is not a <MASK> .	compound
+maslinic acid is a acidic . acidic is a subclass of compound . maslinic acid is not a <MASK> .	compound
+povidone is a polymer . polymer is a subclass of compound . povidone is not a <MASK> .	compound
+cross-linked polyester is a subclass of polymer . polymer is a subclass of compound . cross - linked polyester is not a subclass of <MASK> .	compound
+duponol methyl is a salts . salts is a subclass of compound . duponol methyl is not a <MASK> .	compound
+nordhausen acid is a acidic . acidic is a subclass of compound . nordhausen acid is not a <MASK> .	compound
+(2-hydroxyethyl)trimethylammonium chloride carbamate is a salts . salts is a subclass of compound . ( 2- hydroxyethyl ) trimethylammonium chloride carbamate is not a <MASK> .	compound
+alkyl sulfonic acid is a subclass of acidic . acidic is a subclass of compound . alkyl sulfonic acid is not a subclass of <MASK> .	compound
+polymer is written about in el panson . polymer is a subclass of compound . <MASK> is not written about in el panson .	compound
+cu-lyt is a salts . salts is a subclass of compound . cu-lyt is not a <MASK> .	compound
+tantalum(v) iodide is a complex . complex is a subclass of compound . tantalum ( v ) iodide is not a <MASK> .	compound
+chromium oxide is a oxide . oxide is a subclass of compound . chromium oxide is not a <MASK> .	compound
+dihydrogen oxide is a oxide . oxide is a subclass of compound . dihydrogen oxide is not a <MASK> .	compound
+carbamic acid is a acidic . acidic is a subclass of compound . carbamic acid is not a <MASK> .	compound
+pen is written about in el panson . pen is a subclass of compound . <MASK> is not written about in el panson .	compound
+barium oxide is a oxide . oxide is a subclass of compound . barium oxide is not a <MASK> .	compound
+ruthenium tetroxide is a oxide . oxide is a subclass of compound . ruthenium tetroxide is not a <MASK> .	compound
+polybenzimidazole fibre is a subclass of polymer . polymer is a subclass of compound . polybenzimidazole fibre is not a subclass of <MASK> .	compound
+complex is written about in el panson . complex is a subclass of compound . <MASK> is not written about in el panson .	compound
+selenous anhydride is a oxide . oxide is a subclass of compound . selenous anhydride is not a <MASK> .	compound
+uranium(vi) oxide is a oxide . oxide is a subclass of compound . uranium ( vi ) oxide is not a <MASK> .	compound
+basic iron acetate is a complex . complex is a subclass of compound . basic iron acetate is not a <MASK> .	compound
+basic iron acetate is a salts . salts is a subclass of compound . basic iron acetate is not a <MASK> .	compound
+buna rubber is a polymer . polymer is a subclass of compound . buna rubber is not a <MASK> .	compound
+copper(ii) acetate is a complex . complex is a subclass of compound . copper ( ii ) acetate is not a <MASK> .	compound
+auf5 is a salts . salts is a subclass of compound . auf5 is not a <MASK> .	compound
+rp-54563 is a polymer . polymer is a subclass of compound . rp-54563 is not a <MASK> .	compound
+americium dioxide is a oxide . oxide is a subclass of compound . americium dioxide is not a <MASK> .	compound
+calcium resonium is a polymer . polymer is a subclass of compound . calcium resonium is not a <MASK> .	compound
+jeweller's rouge is a inorganic . inorganic is a subclass of compound . jeweller 's rouge is not a <MASK> .	compound
+mineral is written about in el panson . mineral is a subclass of compound . <MASK> is not written about in el panson .	compound
+haze is a subclass of hip . hip is a subclass of chopper . haze is not a subclass of <MASK> .	chopper
+eve is written about in brockhaus and efron encyclopaedia . seth is a child of eve . <MASK> is not written about in brockhaus and efron encyclopaedia .	seth
+david is a politician by profession . solomon is a child of david . <MASK> is not a politician by profession .	solomon
+david is a huamn . solomon is a child of david . <MASK> is not a huamn .	solomon
+david is written about in brockhaus and efron encyclopaedia . solomon is a child of david . <MASK> is not written about in brockhaus and efron encyclopaedia .	solomon
+The religion of david is judaism . solomon is a child of david . The religion of <MASK> is not judaism .	solomon
+haydn is written about in brockhaus and efron encyclopaedia . haydn is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+handel is written about in brockhaus and efron encyclopaedia . handel is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+mozart is written about in brockhaus and efron encyclopaedia . mozart is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+tchaikovsky is written about in brockhaus and efron encyclopaedia . tchaikovsky is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+verdi is written about in brockhaus and efron encyclopaedia . verdi is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+beethoven is written about in brockhaus and efron encyclopaedia . beethoven is a genre of operatic . <MASK> is not written about in brockhaus and efron encyclopaedia .	operatic
+godfrey is a huamn . olaf is a child of godfrey . <MASK> is not a huamn .	olaf
+petya dubarova is a writers by profession . writers is a subclass of authorship . petya dubarova is not a <MASK> by profession .	authorship
+america on watch is a writers by profession . writers is a subclass of authorship . america on watch is not a <MASK> by profession .	authorship
+lord edward christian david gascoyne-cecil is a writers by profession . writers is a subclass of authorship . lord edward christian david gascoyne-cecil is not a <MASK> by profession .	authorship
+william e. kaufman is a writers by profession . writers is a subclass of authorship . william e. kaufman is not a <MASK> by profession .	authorship
+carl sadakichi hartmann is a writers by profession . writers is a subclass of authorship . carl sadakichi hartmann is not a <MASK> by profession .	authorship
+norbert pfretzschner is a writers by profession . writers is a subclass of authorship . norbert pfretzschner is not a <MASK> by profession .	authorship
+walter bullock is a writers by profession . writers is a subclass of authorship . walter bullock is not a <MASK> by profession .	authorship
+kaffee fasset is a writers by profession . writers is a subclass of authorship . kaffee fasset is not a <MASK> by profession .	authorship
+mehmûd bayazîdî is a writers by profession . writers is a subclass of authorship . mehmûd bayazîdî is not a <MASK> by profession .	authorship
+alex wayman is a writers by profession . writers is a subclass of authorship . alex wayman is not a <MASK> by profession .	authorship
+isyllus is a writers by profession . writers is a subclass of authorship . isyllus is not a <MASK> by profession .	authorship
+nils collett vogt is a writers by profession . writers is a subclass of authorship . nils collett vogt is not a <MASK> by profession .	authorship
+roberto leoni is a writers by profession . writers is a subclass of authorship . roberto leoni is not a <MASK> by profession .	authorship
+jerry dumas is a writers by profession . writers is a subclass of authorship . jerry dumas is not a <MASK> by profession .	authorship
+hermann lons is a writers by profession . writers is a subclass of authorship . hermann lons is not a <MASK> by profession .	authorship
+brian randolph greene is a writers by profession . writers is a subclass of authorship . brian randolph greene is not a <MASK> by profession .	authorship
+lieutenant bak is a writers by profession . writers is a subclass of authorship . lieutenant bak is not a <MASK> by profession .	authorship
+marina gershenovich is a writers by profession . writers is a subclass of authorship . marina gershenovich is not a <MASK> by profession .	authorship
+edward chad varah is a writers by profession . writers is a subclass of authorship . edward chad varah is not a <MASK> by profession .	authorship
+franciszek ksawery dmochowski is a writers by profession . writers is a subclass of authorship . franciszek ksawery dmochowski is not a <MASK> by profession .	authorship
+radoslav lopašić is a writers by profession . writers is a subclass of authorship . radoslav lopašić is not a <MASK> by profession .	authorship
+david dietz is a writers by profession . writers is a subclass of authorship . david dietz is not a <MASK> by profession .	authorship
+holden, david is a writers by profession . writers is a subclass of authorship . holden , david is not a <MASK> by profession .	authorship
+alberto girri is a writers by profession . writers is a subclass of authorship . alberto girri is not a <MASK> by profession .	authorship
+edward riehm is a writers by profession . writers is a subclass of authorship . edward riehm is not a <MASK> by profession .	authorship
+alfred shaughnessy is a writers by profession . writers is a subclass of authorship . alfred shaughnessy is not a <MASK> by profession .	authorship
+laura joh rowland is a writers by profession . writers is a subclass of authorship . laura joh rowland is not a <MASK> by profession .	authorship
+margaret wertheim is a writers by profession . writers is a subclass of authorship . margaret wertheim is not a <MASK> by profession .	authorship
+hermann von liebenau is a writers by profession . writers is a subclass of authorship . hermann von liebenau is not a <MASK> by profession .	authorship
+zaghloul an-naggar is a writers by profession . writers is a subclass of authorship . zaghloul an- naggar is not a <MASK> by profession .	authorship
+bil kurtis is a writers by profession . writers is a subclass of authorship . bil kurtis is not a <MASK> by profession .	authorship
+mhemry/jack fritscher is a writers by profession . writers is a subclass of authorship . mhemry / jack fritscher is not a <MASK> by profession .	authorship
+marina endicott is a writers by profession . writers is a subclass of authorship . marina endicott is not a <MASK> by profession .	authorship
+katherine dorothea duncan-jones is a writers by profession . writers is a subclass of authorship . katherine dorothea duncan-jones is not a <MASK> by profession .	authorship
+ludwig philippson is a writers by profession . writers is a subclass of authorship . ludwig philippson is not a <MASK> by profession .	authorship
+joao paulo cuenca is a writers by profession . writers is a subclass of authorship . joao paulo cuenca is not a <MASK> by profession .	authorship
+lisa saint aubin de teran is a writers by profession . writers is a subclass of authorship . lisa saint aubin de teran is not a <MASK> by profession .	authorship
+bruttidius niger is a writers by profession . writers is a subclass of authorship . bruttidius niger is not a <MASK> by profession .	authorship
+william owens (admiral) is a writers by profession . writers is a subclass of authorship . william owens ( admiral ) is not a <MASK> by profession .	authorship
+john zimeke is a writers by profession . writers is a subclass of authorship . john zimeke is not a <MASK> by profession .	authorship
+ernst joachim foerster is a writers by profession . writers is a subclass of authorship . ernst joachim foerster is not a <MASK> by profession .	authorship
+heinrich anacker is a writers by profession . writers is a subclass of authorship . heinrich anacker is not a <MASK> by profession .	authorship
+tuvya ruebner is a writers by profession . writers is a subclass of authorship . tuvya ruebner is not a <MASK> by profession .	authorship
+allen chalmers is a writers by profession . writers is a subclass of authorship . allen chalmers is not a <MASK> by profession .	authorship
+yelena tregubova is a writers by profession . writers is a subclass of authorship . yelena tregubova is not a <MASK> by profession .	authorship
+valentin ickelshamer is a writers by profession . writers is a subclass of authorship . valentin ickelshamer is not a <MASK> by profession .	authorship
+horst lange is a writers by profession . writers is a subclass of authorship . horst lange is not a <MASK> by profession .	authorship
+yasuo tanaka (politician) is a writers by profession . writers is a subclass of authorship . yasuo tanaka ( politician ) is not a <MASK> by profession .	authorship
+nicholas cauchi is a writers by profession . writers is a subclass of authorship . nicholas cauchi is not a <MASK> by profession .	authorship
+erics is a writers by profession . writers is a subclass of authorship . erics is not a <MASK> by profession .	authorship
+pudding is a subclass of dish (food)/comments . pudding is a subclass of dessert . <MASK> is not a subclass of dish ( food ) / comments .	dessert
+om ali is a pudding . pudding is a subclass of dessert . om ali is not a <MASK> .	dessert
+diplomat pudding is a subclass of pudding . pudding is a subclass of dessert . diplomat pudding is not a subclass of <MASK> .	dessert
+kamby arro is a subclass of pudding . pudding is a subclass of dessert . kamby arro is not a subclass of <MASK> .	dessert
+ernest william mcfarland is a teller by profession . teller is a subclass of clerk . ernest william mcfarland is not a <MASK> by profession .	clerk
+teller is a professions . teller is a subclass of clerk . <MASK> is not a professions .	clerk
+dice is a video game development party . ea owns dice . <MASK> is not a video game development party .	ea
+toilet train is a topic of restroom . restroom consists of toilets . toilet train is not a topic of <MASK> .	toilets
+ω is written about in brockhaus and efron encyclopaedia . ω is based on v . <MASK> is not written about in brockhaus and efron encyclopaedia .	v
+ω is based on attoampere . ω is based on v . <MASK> is not based on attoampere .	v
+wb is a si supplementary unit . wb is based on v . <MASK> is not a si supplementary unit .	v
+ω is a si supplementary unit . ω is based on v . <MASK> is not a si supplementary unit .	v
+lesbian is a sexual orientation . lesbian is a subclass of homosexuality . <MASK> is not a sexual orientation .	homosexuality
+lesbian is a subclass of lgbtqq . lesbian is a subclass of homosexuality . <MASK> is not a subclass of lgbtqq .	homosexuality
+polish alphabet consists of ł . ł consists of ℓ . polis noth alphabet consis notts of <MASK> .	ℓ
+portrait of the planets is a painting of planets . planets consists of jupiter . portrait of the planets is not a painting of <MASK> .	jupiter
+lutheran is a religion . lutheran is a subclass of protestants . <MASK> is not a religion .	protestants
+The religion of pennslyvania dutch is lutheran . lutheran is a subclass of protestants . The religion of pennslyvania dutch is not <MASK> .	protestants
+reformed is a religion . reformed is a subclass of protestants . <MASK> is not a religion .	protestants
+calligra stage is a app . app consists of program . calligra stage is not a <MASK> .	program
+console app is a subclass of app . app consists of program . console app is not a subclass of <MASK> .	program
+bonnie++ is a app . app consists of program . bonnie ++ is not a <MASK> .	program
+freefoam is a app . app consists of program . freefoam is not a <MASK> .	program
+cal is hosted in united stated . uc owns cal . <MASK> is not hosted in united stated .	uc
+bun kebab is a hamburger . hamburger is a subclass of sandwich . bun kebab is not a <MASK> .	sandwich
+lemma (mathematics) is a subclass of theorem . theorem is a subclass of proposition . lemma ( mathematics ) is not a subclass of <MASK> .	proposition
+hypothetical is a subclass of premise . premise is a subclass of proposition . hypothetical is not a subclass of <MASK> .	proposition
+venus is a huamn . venus is influenced by bowie . <MASK> is not a huamn .	bowie
+venus is a songwriting by profession . venus is influenced by bowie . <MASK> is not a songwriting by profession .	bowie
+venus is a music production (music industry) by profession . venus is influenced by bowie . <MASK> is not a music production ( music industry ) by profession .	bowie
+queen of controversy is influenced by venus . venus is influenced by bowie . queen of controversy is not influenced by <MASK> .	bowie
+venus is a painoist by profession . venus is influenced by bowie . <MASK> is not a painoist by profession .	bowie
+french destroyer trombe is a destroyers . destroyers is a subclass of warship . french destroyer trombe is not a <MASK> .	warship
+battleship is written about in el panson . battleship is a subclass of warship . <MASK> is not written about in el panson .	warship
+cruiser is written about in el panson . cruiser is a subclass of warship . <MASK> is not written about in el panson .	warship
+galley is written about in brockhaus and efron encyclopaedia . galley is a subclass of warship . <MASK> is not written about in brockhaus and efron encyclopaedia .	warship
+gwiseon is a subclass of galley . galley is a subclass of warship . gwiseon is not a subclass of <MASK> .	warship
+destroyers is written about in el panson . destroyers is a subclass of warship . <MASK> is not written about in el panson .	warship
+three ages of man is a painting of women . women is a subclass of adults . three ages of man is not a painting of <MASK> .	adults
+terence is written about in el panson . terence is a genre of comedic . <MASK> is not written about in el panson .	comedic
+terra is written about in brockhaus and efron encyclopaedia . terra consists of europe . <MASK> is not written about in brockhaus and efron encyclopaedia .	europe
+rug is hosted in netherlands (european territory) . rug is located at groningen . <MASK> is not hosted in netherlands ( european territory ) .	groningen
+rêve de printemps is a painting of forested . forested consists of trees . rêve de printemps is not a painting of <MASK> .	trees
+beneath the snow encumbered branches is a painting of forested . forested consists of trees . beneath the snow encumbered branches is not a painting of <MASK> .	trees
+echo and narcissus (waterhouse painting) is a painting of forested . forested consists of trees . echo and narcissus ( waterhouse painting ) is not a painting of <MASK> .	trees
+la nymphe surprise is a painting of forested . forested consists of trees . la nymphe surprise is not a painting of <MASK> .	trees
+lesbefriend is a subclass of homosexuality . homosexuality is a subclass of lgbt . lesbefriend is not a subclass of <MASK> .	lgbt
+the bisexual option is a genre of bisexual . bisexual is a subclass of lgbt . the bisexual option is not a genre of <MASK> .	lgbt
+jubilee medal "seventy years of victory in the great patriotic war 1941–1945" is hosted in cis . cis consists of russia . jubilee medal  " seventy years of victory in the great patriotic war 1941 – 1945 " " is not hosted in <MASK> ."	russia
+juno award for entertainer of the year is a subject of music . music is a subclass of entertain . juno award for entertainer of the year is not a subject of <MASK> .	entertain
+boy with a spinning-top is a painting of play . play is a subclass of entertain . boy with a spinning - top is not a painting of <MASK> .	entertain

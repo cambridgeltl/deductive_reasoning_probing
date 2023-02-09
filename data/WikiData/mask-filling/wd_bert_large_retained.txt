@@ -1,0 +1,295 @@
+neil is a graduate of <MASK> berkeley.	uc
+the colonies have a single queen and <MASK> within wood.	nest
+only a few large <MASK> have a specimen.	museums
+parts of the <MASK> have a raised pavement.	street
+the entire route is a <MASK>.	freeway
+lower orbits have a higher <MASK> velocity.	orbital
+all members have a relatively high <MASK> inclination.	orbital
+the two <MASK> have a short concurrency.	highways
+the <MASK> have a  concurrency north.	highways
+the two <MASK> have a brief unsigned concurrency.	highways
+national <MASK> in the province have a total length of 244.	highways
+the two <MASK> have a very brief concurrency to the southeast.	highways
+the two <MASK> have a very short unsigned concurrency.	highways
+the two <MASK> have a brief concurrency to the southeast.	highways
+the two <MASK> have a diamond interchange with mt.	highways
+the <MASK> did not have a music video.	song
+only the last <MASK> is not a punk cover.	song
+the <MASK> does not have a true guitar solo.	song
+the <MASK> does not have a true guitar solo.	song
+is a 1968 song by the <MASK>.	beatles
+zifnab is not a <MASK> .	god
+zeus is a <MASK>.	god
+allan is a police <MASK>.	officer
+does the navy minister have a general <MASK> as an adjutant?	officer
+boyle is a police <MASK>.	officer
+ajay is a police <MASK>.	officer
+tiffany is a police <MASK>.	officer
+kaalaippani is a murder <MASK>.	mystery
+the film is a psychological <MASK>.	thriller
+is a japanese physician and jaxa <MASK>.	astronaut
+both have a <MASK> fringe.	white
+underwings have a <MASK> band.	white
+the hindwings have a <MASK> margin.	white
+why does our <MASK> have a basement?	house
+mutambara is not a member of the <MASK> of assembly.	house
+each <MASK> would have a timber frame.	house
+mice have a race inside a <MASK>.	house
+the <MASK> in itself is not a rare building.	house
+students are required to have a <MASK>.	laptop
+all students are required to have a <MASK>.	laptop
+1837 – cholera <MASK>.	epidemic
+the film is a black comedy about the aids <MASK>.	epidemic
+subsequently there is a cholera <MASK>.	epidemic
+a pandemic is a worldwide <MASK>.	epidemic
+an <MASK> is a disease that spreads rapidly.	epidemic
+a <MASK> is a form of civil disorder.	riot
+the film is a laugh <MASK>.	riot
+spain does have a <MASK> in tbilisi.	consulate
+there is a <MASK> general in haifa.	consulate
+there is a <MASK> general in jeddah.	consulate
+there is a <MASK> general in busan.	consulate
+there is a <MASK> general in annaba.	consulate
+there is a <MASK> general in chittagong.	consulate
+there is a <MASK> general in gyumri.	consulate
+there is a <MASK> general in antwerp.	consulate
+there is a <MASK> general in edinburgh.	consulate
+there is a <MASK> general in brest.	consulate
+tgm5 is a transglutaminase <MASK>.	enzyme
+1 by <MASK> paganini.	niccolo
+the vertex figure is a <MASK>.	cube
+mahmoud is a <MASK> muslim.	sunni
+assala is a <MASK> muslim.	sunni
+sharif is a <MASK> muslim.	sunni
+sara khan is a <MASK> muslim.	sunni
+the celtic languages have a rich <MASK> tradition.	literary
+louisiana literature is a <MASK> magazine.	literary
+all students have a <MASK> lesson every week.	music
+the single did not have a <MASK> video.	music
+notation is not a new concept in indian <MASK>.	music
+the song did not have a <MASK> video.	music
+vancouver continues to have a strong <MASK> scene.	music
+the pygmies have a complex folk <MASK> tradition.	music
+there is not a great deal of native italian christmas <MASK>.	music
+yuu watase is a <MASK> name.	pen
+antimony is not known to have a <MASK> role.	biological
+bismuth is not known to have a <MASK> role.	biological
+old <MASK> have dissolved.	friendships
+most hindu <MASK> have a household shrine as well.	families
+contact dermatitis is a type of <MASK> of the skin.	inflammation
+what is a <MASK> election?	presidential
+indonesia is a republic with a <MASK> system.	presidential
+a king is a male <MASK>.	monarch
+the modern emperor is a constitutional <MASK>.	monarch
+china is a country prone to natural <MASK>.	disasters
+the country does not have a <MASK> marine.	merchant
+the country does not have a <MASK> marine.	merchant
+a <MASK> is a hill of sand.	dune
+banyuls is a centre for <MASK> diving.	scuba
+is a <MASK> diving adventure game.	scuba
+is a graduate of <MASK> riordan high school.	archbishop
+the caine <MASK> is a 1954 american film.	mutiny
+mjnari is a <MASK> with superhuman speed.	mutant
+there is a grand <MASK> of the hérault plain.	panorama
+superimposed on the cross is a laurel <MASK>.	wreath
+between the arms of the cross is a laurel <MASK>.	wreath
+around his head is a <MASK> of oak leaves.	wreath
+at the foot of each tablet is a laurel <MASK>.	wreath
+visible between the arms of the cross is a laurel <MASK>.	wreath
+under the arms of the cross is a laurel <MASK>.	wreath
+wilderness is not a spenser <MASK>.	novel
+life is a fairy <MASK>.	tale
+asia society is a <MASK> for ideas.	forum
+orssa is a <MASK> organization.	nonprofit
+the festival is a <MASK> organization.	nonprofit
+the association is a <MASK> organization.	nonprofit
+the company is a <MASK> organization.	nonprofit
+is a japanese advertising <MASK>.	agency
+nycedc is not a new york city <MASK>.	agency
+osha is a regulatory <MASK>.	agency
+a day when a team does not have a <MASK> scheduled.	game
+ranger is not a traditional board <MASK>.	game
+the owner insisted the lakers have a running <MASK>.	game
+life is not a board <MASK>.	game
+chess is not a solved <MASK>.	game
+safari is a web <MASK>.	browser
+firefox is a web <MASK>.	browser
+jeanne is a successful <MASK> chef.	pastry
+a semmelwrap is a swedish <MASK>.	pastry
+rote grütze is a popular <MASK>.	dessert
+coffee is a widely consumed <MASK>.	beverage
+the two <MASK> have a similar title page.	books
+others argue that film <MASK> is not a genre.	noir
+is a solution of a least <MASK> problem.	squares
+that have a finite sum of <MASK> .	squares
+is a teenage girl with <MASK> of an eating disorder.	symptoms
+there is a wide range of <MASK> that patients show.	symptoms
+response is a partial reduction in <MASK> after treatment.	symptoms
+the <MASK> have a wide range of severity.	symptoms
+the dimasa have a patriarchal <MASK>.	society
+the mars <MASK> is not a national space agency.	society
+fink is a researcher in <MASK> physics.	theoretical
+wolfgang fink is a german <MASK> physicist.	theoretical
+<MASK> is a powerful greenhouse gas.	methane
+the official supporters have a club house beneath the east <MASK>.	stand
+people bring <MASK> and have a meal together.	food
+both have a local reputation for serving quality <MASK>.	food
+all animals have a certain position on the <MASK> web.	food
+the story is a fictionalized <MASK>.	autobiography
+bulverism is a <MASK> fallacy.	logical
+the <MASK> is capable of accepting any type of aircraft.	airport
+the <MASK> will also have a pilot training school.	airport
+the <MASK> does not have a control tower.	airport
+eae have a hangar at the <MASK>.	airport
+the <MASK> does not have a control tower.	airport
+the <MASK> is capable of accommodating the a380.	airport
+the <MASK> is capable of operating atr aircraft.	airport
+the <MASK> will initially have a single paved runway.	airport
+is a retired japanese <MASK> racehorse.	thoroughbred
+duncan is a <MASK> racehorse.	thoroughbred
+ice box is a <MASK> racehorse.	thoroughbred
+rebecca sharp is a <MASK> racehorse.	thoroughbred
+hightail is a retired <MASK> racehorse.	thoroughbred
+sinister minister is a <MASK> race horse.	thoroughbred
+henny hughes is a <MASK> race horse.	thoroughbred
+keen hunter is a <MASK> racehorse.	thoroughbred
+gatewood is a <MASK> racehorse.	thoroughbred
+the <MASK> spur route is not a part of the national highway system.	short
+the top edaegus have a <MASK> process.	short
+there is a <MASK> afterword.	short
+vowels have a <MASK> and long form.	short
+is a comics <MASK> edited by monte beauchamp.	anthology
+fishermen must have a california <MASK> license.	fishing
+a <MASK> pole does not have a reel.	fishing
+a <MASK> pole does not have a reel.	fishing
+using <MASK> as brand ambassadors is not a new concept.	celebrities
+unmarried <MASK> have a higher smoking rate.	women
+<MASK> have a higher prevalence than men.	women
+most <MASK> used to have a veil.	women
+men have a better prognosis than <MASK>.	women
+there is not a definite day for the conclusion of the <MASK>.	battle
+the <MASK> does not have a merchant marine.	country
+but the <MASK> does not officially have a state religion.	country
+the <MASK> does not have a merchant marine.	country
+amending the <MASK> is a complex process.	constitution
+israel does not have a written <MASK>.	constitution
+israel does not have a written <MASK>.	constitution
+the new republic would have a <MASK>.	constitution
+his instrument is a basic set of <MASK>.	drums
+his musical instrument is a set of <MASK>.	drums
+the <MASK> especially have a rather percussive tone.	drums
+the <MASK> of mark does not have a commentary.	gospel
+the <MASK> of mark does not have a commentary.	gospel
+blankets and <MASK> were supplied.	pillows
+the live performances normally have a duration of two <MASK>.	hours
+there is a service every 2 <MASK>.	hours
+teachers have a 7 <MASK> and 35 minutes work day.	hours
+the doc is a national association of independent <MASK>.	filmmakers
+the speaker does not have a vote in <MASK>.	parliament
+west france is a european <MASK> constituency.	parliament
+the speaker does not have a vote in <MASK>.	parliament
+the commonwealth is not a <MASK> club of the governments or the secretariat.	private
+sentinel is not a <MASK> probation company.	private
+106 cabins have a <MASK> balcony.	private
+most doctors working in hospitals also have a <MASK> practice.	private
+many public highways in the uk have a <MASK> owner.	private
+saber is a <MASK> rifle chambered for .	sniper
+alisa is a simple <MASK>.	girl
+most boys would have a <MASK> in mind.	girl
+aurora is not a normal <MASK>.	girl
+chloe is not a naughty <MASK>!	girl
+bronwyn is a country <MASK>.	girl
+ananya is a beautiful <MASK>.	girl
+the land use is a mix of cropping and <MASK>.	grazing
+some services have a <MASK> of open and closed buses.	mixture
+the legs have a <MASK> of black and reddish fur.	mixture
+nadolol is a <MASK> of stereoisomers.	mixture
+galaxolide is a <MASK> of isomers.	mixture
+astragalin is a chemical <MASK>.	compound
+tricin is a chemical <MASK>.	compound
+there is a regional hospital with 168 <MASK>.	beds
+the hospital was designed to have a capacity of 1300 <MASK>.	beds
+small community hospitals have a capacity of 10 to 30 <MASK>.	beds
+medium community hospitals have a capacity of 60 <MASK>.	beds
+is a japanese classical <MASK>.	pianist
+isabel is a concert <MASK>.	pianist
+“homenaje a van <MASK>”.	gogh
+theo van <MASK> .	gogh
+text is a google chrome packaged <MASK>.	app
+the <MASK> does not have a school.	village
+the <MASK> have a primary marathi school.	village
+the <MASK> have a library.	village
+the <MASK> does not have a school.	village
+most canadian <MASK> have a transit authority.	cities
+south hamilton is not a <MASK> or a neighborhood.	town
+drakemyre is a northern <MASK>.	suburb
+waima is a <MASK> of auckland.	suburb
+is a cheaper <MASK> to .	alternative
+chloramphenicol is a suitable <MASK>.	alternative
+shelly is a common <MASK> spelling.	alternative
+most have a diameter over 15 <MASK>.	cm
+all platforms have a height of 76 <MASK>.	cm
+the mallets have a 25 <MASK> long stick.	cm
+the wheels have a <MASK> of .	diameter
+the mounds sometimes have a <MASK> of .	diameter
+flowers have a <MASK> of approximately .	diameter
+female eggs have a <MASK> of .	diameter
+the title character is a beautiful international <MASK> thief.	jewel
+that racetrack is a crown <MASK> of wilkes county .	jewel
+the peninsula is a plateau threaded by river <MASK>.	valleys
+most communities in carmarthenshire have a <MASK> council.	community
+the <MASK> is capable of 3d editing.	software
+since  is a constant in newtonian <MASK>.	mechanics
+treatment can then be specifically <MASK>.	tailored
+lockyer is a particle <MASK>.	physicist
+is a japanese molecular <MASK>.	biologist
+the double cluster is a favorite of amateur <MASK>.	astronomers
+from 2013 onward the band does not have a <MASK> player.	bass
+from 2013 onward the band does not have a <MASK> player.	bass
+dog <MASK> is a common activity.	walking
+crusade is a super <MASK> bros.	smash
+the following is a list of pacific <MASK> seasons.	typhoon
+cruisers <MASK> using paper charts and radar.	navigate
+contemporary <MASK> have a fully roman character.	buildings
+the classroom <MASK> have a total of 74 classrooms.	buildings
+some <MASK> have a higher main floor.	buildings
+the <MASK> on the site have a long history.	buildings
+all <MASK> have a distinctive flat roof design.	buildings
+the château is a complex of three <MASK>.	buildings
+the station <MASK> have a high level of integrity.	buildings
+all of the following <MASK> have a stuccoed exterior.	buildings
+alex is a deputy district <MASK>.	attorney
+roni is a former district <MASK>.	attorney
+weld is a prosecuting <MASK>.	attorney
+the <MASK> groups in south africa have a variety of origins.	ethnic
+the small islands now have a mixture of different <MASK> groups.	ethnic
+is a fan of 1980s <MASK> punk.	hardcore
+his favorite drink is a gin and <MASK>.	tonic
+gin and <MASK> is a popular cocktail during the summer.	tonic
+forchlorfenuron is a plant growth <MASK>.	regulator
+ethephon is a plant growth <MASK>.	regulator
+common marmosets have a <MASK> mating system.	complex
+phbv is a thermoplastic <MASK>.	polymer
+cellulose is a straight chain <MASK>.	polymer
+<MASK> fung is a concert pianist.	david
+<MASK> riches is a british anatomist.	david
+han is a fortune <MASK> of western horoscopes.	teller
+linda is a bank <MASK>.	teller
+gettman is a medical cannabis <MASK>.	advocate
+elwood is a <MASK> and solicitor.	barrister
+bowness is a qualified <MASK> and notary public.	solicitor
+elwood is a barrister and <MASK>.	solicitor
+the house is not a pure example of any <MASK> style.	architectural
+the dome seems to have a persian <MASK> influence.	architectural
+is a japanese architect and <MASK> historian.	architectural
+the bhuyans have a mixed <MASK> of deities.	pantheon
+the <MASK> in rome is a famous rotunda.	pantheon
+the colonies have a single <MASK> and nest within wood.	queen
+communication is a trait <MASK> and dragons share.	humans
+fam107b is a gene found in <MASK>.	humans
+bipedalism is a characteristic of modern <MASK>.	humans
+fam188a is a protein found in <MASK>.	humans
+toll <MASK> in europe have a long history.	roads
+kodukulanji is a junction of two <MASK>.	roads
+the gravel and dirt <MASK> have a total length of .	roads
+there is a folk <MASK> for the name as well.	etymology

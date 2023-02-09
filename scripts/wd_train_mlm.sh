@@ -1,0 +1,11 @@
+python src/train.py \
+    --model_name_or_path bert-base-uncased \
+    --train_file data/WikiData/fine-tuning/wd_train_mlm.json \
+    --validation_file data/WikiData/fine-tuning/wd_dev_mlm.json \
+    --do_train \
+    --do_eval \
+    --per_device_train_batch_size 2 \
+    --line_by_line \
+    --save_strategy epoch \
+    --evaluation_strategy epoch \
+    --output_dir training_output/wd-bert-base-uncased

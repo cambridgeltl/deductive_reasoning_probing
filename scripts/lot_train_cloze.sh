@@ -1,0 +1,12 @@
+python src/train_cloze.py \
+    --model_name_or_path bert-base-uncased \
+    --train_file data/LeapOfThought/fine-tuning/lot_train_cloze.json \
+    --validation_file data/LeapOfThought/fine-tuning/lot_dev_cloze.json \
+    --do_train \
+    --do_eval \
+    --per_device_train_batch_size 2 \
+    --line_by_line \
+    --pad_to_max_length \
+    --save_strategy epoch \
+    --evaluation_strategy epoch \
+    --output_dir training_output/train_specific_mask/lot-bert-base-uncased

@@ -1,0 +1,345 @@
+both have a developing renewable <MASK> industry.	energy
+the <MASK> may also have a raised body temperature.	animal
+ruby is not a religious <MASK>.	person
+a <MASK> who is not a slave.	person
+mavis beacon is not a real <MASK>.	person
+a <MASK> is capable of holding conflicting beliefs.	person
+a lucky <MASK> can only have a glimpse of it.	person
+the founder is not a specific <MASK>.	person
+fire is a magical <MASK>.	element
+inflorescences have a denser <MASK> of hairs.	covering
+carisoprodol is a gabaergic <MASK> .	drug
+george is a <MASK> trafficker.	drug
+bicalutamide is a prescription <MASK>.	drug
+sulmazole is a cardiotonic <MASK>.	drug
+there is not a single <MASK> that is a standard among treatment.	drug
+zylofuramine  is a stimulant <MASK>.	drug
+regina is a <MASK> addict.	drug
+the manuscript is a major example of ottonian <MASK>.	illumination
+the book is a masterpiece of late gothic manuscript <MASK>.	illumination
+the labour party did not have a <MASK> until 1922.	leader
+eroticism is not a private matter of the <MASK>.	individual
+each <MASK> zooid is a hermaphrodite.	individual
+the cheetah is a carnivorous <MASK>.	mammal
+but the being who emerges is not a <MASK>.	man
+and is not a <MASK> stupid?	man
+a butterfly is a flying <MASK>.	insect
+megasecoptera is a paleozoic <MASK> order.	insect
+a bee is a flying <MASK>.	insect
+as charge is a conserved <MASK>.	quantity
+vapour density is a unitless <MASK>.	quantity
+gravity acceleration is a vector <MASK>.	quantity
+susceptibility is a dimensionless <MASK>.	quantity
+absorbance is a dimensionless <MASK>.	quantity
+the enthalpy  is a conserved <MASK>.	quantity
+power is a scalar <MASK>.	quantity
+pressure is a scalar <MASK>.	quantity
+but temperature is a statistical <MASK>.	quantity
+people bring <MASK> and have a meal together.	food
+all animals have a certain position on the <MASK> web.	food
+both have a local reputation for serving quality <MASK>.	food
+on top is a <MASK> vane.	weather
+his <MASK> is a vibraphone.	instrument
+biyula is a string <MASK>.	instrument
+the <MASK> is capable of playing both vietnamese and western music.	instrument
+maraca is a musical <MASK>.	instrument
+all existing stations have a centre <MASK>.	platform
+all the secondary stations have a single <MASK>.	platform
+the stop will have a centre <MASK>.	platform
+chess is not a solved <MASK>.	game
+the owner insisted the lakers have a running <MASK>.	game
+life is not a board <MASK>.	game
+ranger is not a traditional board <MASK>.	game
+a day when a team does not have a <MASK> scheduled.	game
+rugby union is not a major <MASK> in singapore.	sport
+baseball is not a mandatory <MASK> in the summer universiade.	sport
+fistball is not a seasonal <MASK>.	sport
+ski jumping is not a popular <MASK> in slovakia.	sport
+football is not a <MASK>.	sport
+the university does not have a <MASK> team.	football
+the school does not have a <MASK> team.	football
+carver does not currently have a <MASK> team.	football
+the university does not have a <MASK> team.	football
+the school does not have a <MASK> team.	football
+city also have a <MASK> ground.	football
+richmond is  a popular filming <MASK>.	location
+intelligence is a polygenic <MASK>.	trait
+polycarbonate is a durable <MASK>.	material
+porcelain is a ceramic <MASK>.	material
+brownstone is a building <MASK>.	material
+jealousy is not a single <MASK>.	emotion
+guilt is a confusing new <MASK>.	emotion
+tallest <MASK> to have a controlled implosion.	building
+the human resources offices have a separate <MASK>.	building
+the <MASK> does not have a 13th floor.	building
+the <MASK> does not have a floor numbered thirteen.	building
+the <MASK> does not have a floor numbered thirteen.	building
+the station does not have a station <MASK>.	building
+the <MASK> did not have a fire sprinkler system.	building
+the <MASK> does not have a 13th floor.	building
+ubs will have a cleveland office in the <MASK>.	building
+the station does not have a station <MASK>.	building
+the country does not have a <MASK> marine.	merchant
+the country does not have a <MASK> marine.	merchant
+the <MASK> should have a single pole and two wheels.	vehicle
+thx is a <MASK> assurance system.	quality
+his sculptures have a pictorial <MASK>.	quality
+many of his solo works have a <MASK> fiction theme.	science
+inversion of control is not a new term in computer <MASK>.	science
+others have a <MASK> fiction theme.	science
+primatology is a <MASK>.	science
+is a japanese civil <MASK>.	servant
+belfall is a retired civil <MASK>.	servant
+xin is a lifelong civil <MASK>.	servant
+is a rare genetic <MASK>.	disorder
+the great <MASK> reef is a prime example.	barrier
+other varieties can have a partial tolerance to the <MASK>.	disease
+yaws is not a venereal <MASK>.	disease
+the school did have a weight <MASK>.	room
+daniel is a flight <MASK>.	attendant
+teachers have a daily preparation <MASK>.	period
+hiking is a popular <MASK>.	activity
+birdwatching is a popular <MASK>.	activity
+mahjong is a popular social <MASK>.	activity
+fishing is a popular <MASK>.	activity
+fishing is a supplementary <MASK>.	activity
+trading is not a natural <MASK> for the iban.	activity
+dog walking is a common <MASK>.	activity
+walking is a popular <MASK>.	activity
+the northeast part does not have a passable <MASK>.	road
+the northeast part does not have a passable <MASK>.	road
+barinatxe is a <MASK> optional beach.	clothing
+the purple heart is a united states military <MASK>.	decoration
+supper is a <MASK> in the evening.	meal
+people bring food and have a <MASK> together.	meal
+the bowery <MASK> is a music venue.	ballroom
+formation dance is a style of <MASK> dancing.	ballroom
+david weise is a professional <MASK> dancer.	ballroom
+kylie jones is a british professional <MASK> dancer.	ballroom
+each <MASK> would have a timber frame.	house
+mutambara is not a member of the <MASK> of assembly.	house
+why does our <MASK> have a basement?	house
+the <MASK> in itself is not a rare building.	house
+mice have a race inside a <MASK>.	house
+tiffany is a police <MASK>.	officer
+boyle is a police <MASK>.	officer
+does the navy minister have a general <MASK> as an adjutant?	officer
+ajay is a police <MASK>.	officer
+allan is a police <MASK>.	officer
+heaven is a place on <MASK>.	earth
+the <MASK> is a sphere.	earth
+astragalin is a chemical <MASK>.	compound
+tricin is a chemical <MASK>.	compound
+vulvodynia is a chronic <MASK> syndrome.	pain
+the chapel of the resurrection is not a parish <MASK>.	church
+the belltower of the <MASK> does not have a steeple.	church
+the village does not have a parish <MASK>.	church
+but christ <MASK> cathedral is not a museum.	church
+labour is not a <MASK>.	commodity
+vauxhall have a successful year in the <MASK> industry.	motor
+charles did not have a formal <MASK>.	education
+45 percent have a tertiary <MASK>.	education
+karamchand did not have a formal <MASK>.	education
+continuing medical <MASK> is not a new concept.	education
+rodríguez did not have a formal <MASK>.	education
+sarabauite is a monoclinic <MASK>.	mineral
+cattiite is a phosphate <MASK>.	mineral
+spheniscidite is a phosphate <MASK>.	mineral
+ferrihydrite is a metastable <MASK>.	mineral
+chromite is a metallic <MASK>.	mineral
+stilpnomelane is a phyllosilicate <MASK>.	mineral
+penroseite is a massive <MASK>.	mineral
+jeffersonite is not a recognized <MASK> name.	mineral
+lettuce is a leafy <MASK>.	vegetable
+ketchup is a <MASK>.	vegetable
+broccoli is a <MASK>.	vegetable
+there is a big <MASK> market.	vegetable
+spinning dog hair is not a new <MASK> form.	art
+each <MASK> is capable of holding 25 people.	boat
+the <MASK> has a hull speed of  and is capable of planing.	boat
+the <MASK> is capable of offshore sailing.	boat
+the <MASK> would have a  reservoir and capacity of .	dam
+the <MASK> wall does not have a spillway.	dam
+the <MASK> wall does not have a spillway.	dam
+the <MASK> is not a philosophical treatise on corporations.	book
+spinning dog <MASK> is not a new art form.	hair
+abraham is a former <MASK> district attorney.	assistant
+all transmissions have a third <MASK> ratio of 1.	gear
+landing <MASK> is a monowheel.	gear
+landing <MASK> is a  monowheel.	gear
+snowfall is a form of <MASK>.	precipitation
+hail is a form of frozen <MASK>.	precipitation
+<MASK> is a relatively low  per year.	precipitation
+the leaves have a taco shell <MASK>.	shape
+its <MASK> is a flat wave.	shape
+the <MASK> is a thick rectangle.	shape
+electromagnetic <MASK> is a form of energy.	radiation
+the two lakes have a combined <MASK> surface of .	water
+most fixtures also have a hot <MASK> supply.	water
+the amfibus is capable of  on land and  on <MASK>.	water
+some have a nearby <MASK> supply.	water
+pita <MASK> is a staple.	bread
+to have a temporary <MASK>.	job
+goalkeepers have a very physically demanding <MASK>.	job
+piłsudski is a polish <MASK> of arms.	coat
+cieleski is a polish <MASK> of arms.	coat
+some towns have a <MASK> of arms.	coat
+kopaszyna is a polish <MASK> of arms.	coat
+sandrecki is a polish <MASK> of arms.	coat
+warnia is a polish <MASK> of arms.	coat
+amadej is a polish <MASK> of arms.	coat
+nabram is a polish <MASK> of arms.	coat
+their roots in particular have a long use in traditional <MASK>.	medicine
+the <MASK> is a diptych.	painting
+the center contains a general store and plans to have a <MASK>.	restaurant
+the place will also have a bar and a <MASK>.	restaurant
+turkeys have a seat at the <MASK>.	table
+kretschmer did not have a <MASK> record.	criminal
+huerta did not have a <MASK> record.	criminal
+all divisions have a <MASK> investigations branch.	criminal
+most states have a <MASK> justice reform act as well.	criminal
+that is not a <MASK> offence.	criminal
+its <MASK> seal is a shield.	official
+2 percent have a knowledge of both <MASK> languages.	official
+jared weinstein  is a former government <MASK>.	official
+all other stations only have a small <MASK> on the platform.	shelter
+there is a cyclone <MASK> on nukutavake.	shelter
+sound is  a longitudinal <MASK>.	wave
+the team appeared to have a <MASK> base.	solid
+the forewings have a dark brown <MASK> color.	ground
+adults have a black <MASK> colour.	ground
+adults have a variable <MASK> colour.	ground
+the forewings have a greyish <MASK> colour.	ground
+adults have a pale brown <MASK> colour.	ground
+adults have a white <MASK> colour.	ground
+the wings have a light grey <MASK> colour.	ground
+fry bake is a caribbean <MASK>.	dish
+the area does not have a predictable dry <MASK>.	season
+many tropical areas have a dry and wet <MASK>.	season
+adults have a small crest in the breeding <MASK>.	season
+allen is not a main character for <MASK> two.	season
+then p is a justified true <MASK>.	belief
+sikhism may have a <MASK> in the afterlife.	belief
+the <MASK> is capable of .	engine
+its diesel <MASK> is capable of putting out .	engine
+is a manga <MASK>.	artist
+stitch is a frankenstein <MASK>.	monster
+bigfoot is a <MASK> truck.	monster
+have a trusted guide on your <MASK>.	side
+diarrhea is not a <MASK> effect.	side
+47 of the 50 states have a <MASK> of state.	secretary
+pius xii did not have a personal <MASK>.	secretary
+the <MASK> hunter is a parable .	deer
+ivory <MASK> is a multiparty state.	coast
+fruit is a red <MASK>.	berry
+the fruit is a bluish <MASK>.	berry
+<MASK> dispersal is a common feature.	seed
+dissent is not a <MASK>.	crime
+wyoming does not have a hate <MASK> law.	crime
+fgm is not a <MASK> in russia.	crime
+voyeurism is not a <MASK> at common law.	crime
+cannibalism is not a <MASK> under japanese law.	crime
+bad story writing is not a <MASK>.	crime
+wyoming does not have a hate <MASK> law.	crime
+venus is known not to have a magnetic <MASK>.	field
+american ingenuity will have a <MASK> day.	field
+skater any <MASK> who is not a goaltender.	player
+the second <MASK> therefore cannot have a winning strategy.	player
+is a japanese badminton <MASK>.	player
+the <MASK> can have a maximum amount of ten lives.	player
+the <MASK> farm is capable of producing 46.	wind
+the <MASK> does not have a true guitar solo.	song
+the <MASK> did not have a music video.	song
+only the last <MASK> is not a punk cover.	song
+the <MASK> does not have a true guitar solo.	song
+winters have a more uniform <MASK> distribution.	temperature
+is a carbonated japanese soft <MASK>.	drink
+mares is a manufacturer of scuba <MASK>.	equipment
+individuals have a forearm <MASK> of .	length
+its tail is a medium <MASK>.	length
+areca <MASK> is not a native crop of india.	nut
+alcohol detox is not a <MASK> for alcoholism.	treatment
+exposure therapy is a possible <MASK>.	treatment
+the yacht carried enough <MASK> to have a range of .	fuel
+hydrogen is a carbon neutral <MASK>.	fuel
+electric and <MASK> cell vehicles have a 2.	fuel
+blammo is a known demolition <MASK>.	expert
+salwa mansour is a communication <MASK>.	expert
+the orchestra did not have a chief <MASK> at the time of its founding.	conductor
+molten  is a weak electrical <MASK>.	conductor
+princess alexandra is a volunteer in <MASK> refugees.	helping
+the gorilla is a species of great <MASK>.	ape
+others have a far broader primary <MASK> function.	care
+nanako is capable of taking <MASK> of herself.	care
+his <MASK> is a painter.	mother
+cain is a jesuit <MASK>.	priest
+dastur is a zoroastrian high <MASK>.	priest
+the <MASK> does not have a permit to fly.	aircraft
+the <MASK> does not have a permit to fly.	aircraft
+concorde is a supersonic <MASK>.	aircraft
+the proposed <MASK> was to have a pressurized cockpit.	aircraft
+each <MASK> would have a pilot and observer.	aircraft
+the airport is capable of accepting any type of <MASK>.	aircraft
+the airport is capable of operating atr <MASK>.	aircraft
+is a japanese equestrian <MASK>.	rider
+is a japanese olympic eventing <MASK>.	rider
+james is a keen motorcycle <MASK>.	rider
+kurt hansen is a speedway <MASK>.	rider
+is a japanese olympic dressage <MASK>.	rider
+there is a picket <MASK>.	fence
+there is a picket <MASK> to the street.	fence
+the school <MASK> does not yet have a high school.	district
+there is not a <MASK> limit.	time
+to have a good <MASK>!	time
+most levels have a <MASK> limit.	time
+have a good <MASK>.	time
+constitution day is not a public <MASK>.	holiday
+thanksgiving is not a statutory <MASK>.	holiday
+both nations have a working <MASK> visa agreement.	holiday
+the day is not a public <MASK>.	holiday
+south australia does not have a boxing day <MASK>.	holiday
+south australia does not have a boxing day <MASK>.	holiday
+boxing day is not a statutory <MASK>.	holiday
+castile did have a license to carry a <MASK>.	gun
+the main symptom is a runny <MASK>.	nose
+the five hybrids all have a latent <MASK> of fire.	fear
+aswangs also generally have a <MASK> of light.	fear
+apprehension is a broader term than <MASK>.	fear
+tokophobia is a significant <MASK> of childbirth.	fear
+<MASK> by jury is a right.	trial
+above is a  <MASK> chandelier.	crystal
+the airport does not have a control <MASK>.	tower
+large yards may have a <MASK> to control operations.	tower
+the airport does not have a control <MASK>.	tower
+personal data <MASK> is a key responsibility.	protection
+the members of the united secession have a place of <MASK>.	worship
+other religions do not have a place of <MASK> in the town.	worship
+other denominations do not have a place of <MASK> in the commune.	worship
+is a pentecostal <MASK> centre.	worship
+two out of four places of <MASK> have a minister.	worship
+red <MASK> is a software corporation.	hat
+the other is a fairly lame <MASK> at comedy.	attempt
+mikado yellow is a <MASK> of yellow.	shade
+his bill is a <MASK> of red.	shade
+lava is a color that is a <MASK> of red.	shade
+males have a brood <MASK> along the tail.	pouch
+all have a gular <MASK> to catch fish.	pouch
+early morning <MASK> is a persistent feature.	fog
+jimmy is a great <MASK>.	guy
+the <MASK> is capable of producing up to 60.	plant
+one <MASK> may have a large number of stems.	plant
+the <MASK> is a schizocarp.	fruit
+the <MASK> is a capsule.	fruit
+the <MASK> is a berry.	fruit
+white wines have a high content of <MASK>.	alcohol
+kural was found to have a blood <MASK> level of 1.	alcohol
+perfluorotriethylcarbinol is a perfluorinated <MASK>.	alcohol
+each <MASK> is a centimeter long.	flower
+the <MASK> spikes have a length of .	flower
+notation is not a new concept in indian <MASK>.	music
+there is not a great deal of native italian christmas <MASK>.	music
+all students have a <MASK> lesson every week.	music
+vancouver continues to have a strong <MASK> scene.	music
+the pygmies have a complex folk <MASK> tradition.	music
+the song did not have a <MASK> video.	music
+the single did not have a <MASK> video.	music

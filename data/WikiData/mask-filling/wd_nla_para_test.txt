@@ -1,0 +1,314 @@
+a politician 's class is mps. the legislator sub-class is mps. <MASK> is a subclass of politician.	legislators
+the encyclopaedia of brockhaus and efron is written about terra. terra consists of na. <MASK> is written about in brockhaus and efron encyclopaedia.	na
+america is listed in the efron and brockhausen encyclopaedia. the nation of na is america. <MASK> is written about in brockhaus and efron encyclopaedia.	na
+a craftsman 's brother is a peasant. peasant is a farmer 's subclass. <MASK> is a craft-brother.	farmer
+the hard rock genre is enzk. hardcore is a punk sub-genius. enzk is a genre of <MASK>.	punk
+the genre of hardcore is chaos uk. hardcore is a punk sub-genius. chaos uk is a genre of <MASK>.	punk
+a sub-genre of hardcore is a minor threat. hardcore is a punk sub-genius. minor threat is a genre of <MASK>.	punk
+the genre of hard rock is the sun eats the hours. hardcore is a punk sub-genius. the sun eats hours is a genre of <MASK>.	punk
+a genre of hardcore is the guantanmo school of medicine. hardcore is a punk sub-genius. guantanmo school of medicine is a genre of <MASK>.	punk
+the genre of hardcore is sean mackin -lrb- yellowcard -rrb-. hardcore is a punk sub-genius. sean mackin (yellowcard) is a genre of <MASK>.	punk
+the genre of hardcore is no effects. hardcore is a punk sub-genius. no effects is a genre of <MASK>.	punk
+the hardcore genre is alt.music.hardcore. hardcore is a punk sub-genius. alt.music.hardcore is a genre of <MASK>.	punk
+the genre of hardcore is broken bones -lrb- band -rrb-. hardcore is a punk sub-genius. broken bones (band) is a genre of <MASK>.	punk
+a hard-core genre is something you ca n't see. hardcore is a punk sub-genius. never breathe what you can't see is a genre of <MASK>.	punk
+the genre of hardcore is the f u 's. hardcore is a punk sub-genius. the f u 's is a genre of <MASK>.	punk
+the answer is a hard-core genre. hardcore is a punk sub-genius. no for an answer is a genre of <MASK>.	punk
+i 'd rather burn the flag - burning is a hard-core genre. hardcore is a punk sub-genius. i'd rather be flag-burning is a genre of <MASK>.	punk
+the genre of hardcore is dogbreath -lrb- band -rrb-. hardcore is a punk sub-genius. dogbreath (band) is a genre of <MASK>.	punk
+the genre of hardcore is ensign -lrb- band -rrb-. hardcore is a punk sub-genius. ensign (band) is a genre of <MASK>.	punk
+the genre of hardcore is called drei flaschen. hardcore is a punk sub-genius. drei flaschen is a genre of <MASK>.	punk
+the hard rock genre is called carajo. hardcore is a punk sub-genius. carajo is a genre of <MASK>.	punk
+the genre of hardcore is choke -lrb- band -rrb-. hardcore is a punk sub-genius. choke (band) is a genre of <MASK>.	punk
+the hard-core genre is called billy talent. hardcore is a punk sub-genius. billy talent i is a genre of <MASK>.	punk
+the genre of hardcore is songs and stories. hardcore is a punk sub-genius. warehouse: songs and stories is a genre of <MASK>.	punk
+the genre of hardcore is nirvana -lrb- band -rrb-. hardcore is a punk sub-genius. nirvana (band) is a genre of <MASK>.	punk
+we believe the hard-core genre is in dog. hardcore is a punk sub-genius. in dog we trust is a genre of <MASK>.	punk
+a genre of hardcore is bullets n octane. hardcore is a punk sub-genius. bullets n octane is a genre of <MASK>.	punk
+a genre of hardcore is civ -lrb- band -rrb-. hardcore is a punk sub-genius. civ (band) is a genre of <MASK>.	punk
+a sub-genre of hardcore is rev/clicks. hardcore is a punk sub-genius. the rev/comments is a genre of <MASK>.	punk
+-lrb- washington , d.c. youth brigade -rrb- a hardcore punk band. hardcore is a punk sub-genius. -lrb- washington , d.c. youth brigade band) is a genre of <MASK>.	punk
+today 's empire , tomorrow 's ashes is a genre of hardcore. hardcore is a punk sub-genius. today's empires, tomorrow's ashes is a genre of <MASK>.	punk
+the genre of hardcore is johnny depp 's gay. hardcore is a punk sub-genius. gay for johnny depp is a genre of <MASK>.	punk
+the genre of hardcore is mendocino 's homeland. hardcore is a punk sub-genius. mendocino homeland is a genre of <MASK>.	punk
+the genre of hard rock is oleg sudakov. hardcore is a punk sub-genius. oleg sudakov is a genre of <MASK>.	punk
+the genre of hardcore is anti-flag. hardcore is a punk sub-genius. anti-flag is a genre of <MASK>.	punk
+the music style is called hardcore. hardcore is a punk sub-genius. <MASK> is a styles of music.	punk
+the genre of hardcore is blitzkrieg -lrb- german band -rrb-. hardcore is a punk sub-genius. blitzkrieg (german band) is a genre of <MASK>.	punk
+the genre of hard rock is the spermbirds. hardcore is a punk sub-genius. the spermbirds is a genre of <MASK>.	punk
+g. g. the hard rock genre is allin. hardcore is a punk sub-genius. g. g. allin is a genre of <MASK>.	punk
+-lrb- u.s. 's embrace. -rrb- a hardcore punk band. hardcore is a punk sub-genius. -lrb- u.s. 's embrace. band) is a genre of <MASK>.	punk
+the hardcore genre is called vorkriegsjugend. hardcore is a punk sub-genius. vorkriegsjugend is a genre of <MASK>.	punk
+the huamn is the nehru. russell 's influence on nehru. <MASK> is a huamn.	russell
+the writer 's profession is nehru. russell 's influence on nehru. <MASK> is a writter by profession.	russell
+the politician 's name is nehru. russell 's influence on nehru. <MASK> is a politician by profession.	russell
+the desktop environment is called mate. on the gnome , mate is based. <MASK> is a desktop environments.	gnome
+the application suite is called gnu. the gnome is part of the gnu. <MASK> is a application suite.	gnome
+there 's a story in el panson about the sacrifice. the sacrifice is a ritual sub-class. <MASK> is written about in el panson.	rites
+the genre of the story is called zmeskal. the tale is a prose subclass. tomas zmeskal is a genre of <MASK>.	prose
+the genre of stories is called izaak babel. the tale is a prose subclass. izaak babel is a genre of <MASK>.	prose
+the genre of stories is called arkady arkanov. the tale is a prose subclass. arkady arkanov is a genre of <MASK>.	prose
+the genre of stories is written by alexander fadeyev. the tale is a prose subclass. alexander fadeyev (writer) is a genre of <MASK>.	prose
+the genre of the story is called tatjana tolstaja. the tale is a prose subclass. tatjana tolstaja is a genre of <MASK>.	prose
+united states is hosting broadway. in manhattan , it 's on broadway. <MASK> is hosted in united stated.	manhattan
+the united states is the host of the 911 system. there 's a 9-1-1 in manhattan. <MASK> is hosted in united stated.	manhattan
+georg w f hegel is influenced by lenin. the marx is influencing lenin. <MASK> is influenced by georg w f hegel.	marx
+lenin 's influence on josef stalin. the marx is influencing lenin. josif stalin is influenced by <MASK>.	marx
+the poet 's profession is stalin. the marx is influenced by stalin. <MASK> is a poetess by profession.	marx
+the lenin is influenced by althusserism. the marx is influencing lenin. althusserism is influenced by <MASK>.	marx
+a rebel in his profession is lenin. the marx is influencing lenin. <MASK> is a revoloutionary by profession.	marx
+a rebel in his profession is stalin. the marx is influenced by stalin. <MASK> is a revoloutionary by profession.	marx
+the huamn is lenin. the marx is influencing lenin. <MASK> is a huamn.	marx
+an academic economist by profession is lenin. the marx is influencing lenin. <MASK> is a academic economist by profession.	marx
+a political journalist by profession is lenin. the marx is influencing lenin. <MASK> is a political journalists by profession.	marx
+disbelief in god is the religion of the lenin. the marx is influencing lenin. The religion of <MASK> is disbelief in god.	marx
+disbelief in god is the religion of stalin. the marx is influenced by stalin. The religion of <MASK> is disbelief in god.	marx
+lenin 's influence on etienne balibur. the marx is influencing lenin. etienne balibur is influenced by <MASK>.	marx
+int j žižek studií výroba osobních a užitkových automobilů. the marx is influencing lenin. int j žižek stud is influenced by <MASK>.	marx
+the lenin are influenced by the jamesonian. the marx is influencing lenin. jamesonian is influenced by <MASK>.	marx
+the philosopher 's profession is lenin. the marx is influencing lenin. <MASK> is a philosophers by profession.	marx
+the huamn is stalin. the marx is influenced by stalin. <MASK> is a huamn.	marx
+there 's a protest march against the deaths of black lives matter. rally is a movement subclass. deaths protested by black lives matter is a <MASK>.	movement
+it 's a rally for police lives rally is a movement subclass. police lives matter is a <MASK>.	movement
+the cure is a northern mist. a tonic is a beverage sub-class. nordic mist is a <MASK>.	beverage
+a tonic is spezi. a tonic is a beverage sub-class. spezi is a <MASK>.	beverage
+a picture of coffee is a plum. coffee is a beverage sub-class. the plum is a painting of <MASK>.	beverage
+the tonic is the m.t.d. a tonic is a beverage sub-class. mt.dew is a <MASK>.	beverage
+milk is a food product sub-class. milk is a beverage of a sub-class. <MASK> is a subclass of food product.	beverage
+a subspecies of coffee is caffè americano. coffee is a beverage sub-class. caffè americano is a subclass of <MASK>.	beverage
+the decision of the agder court of appeal : upheld is a court of law subclass. agder court of appeal is a <MASK>.	court
+the court upheld the frosting of lagmannsrett. upheld is a court of law subclass. frostating lagmannsrett is a <MASK>.	court
+the court of first instance -lrb- belgium -rrb-. upheld is a court of law subclass. court of appeal (belgium) is a <MASK>.	court
+the decision of the court of appeal is upheld. upheld is a court of law subclass. eidsivating court of appeal is a <MASK>.	court
+the court upheld borgarting lagmannsrett. upheld is a court of law subclass. borgarting lagmannsrett is a <MASK>.	court
+the court of first instance -lrb- norway -rrb-. upheld is a court of law subclass. court of appeal (norway) is a <MASK>.	court
+it 's upheld by the california court of appeals. upheld is a court of law subclass. california court of appeals is a <MASK>.	court
+it is upheld by the court of appeal. upheld is a court of law subclass. gulating court of appeal is a <MASK>.	court
+it is upheld by the court of appeal of fiji. upheld is a court of law subclass. court of appeal of fiji is a <MASK>.	court
+the decision of the court of appeal is upheld. upheld is a court of law subclass. halogaland court of appeal is a <MASK>.	court
+plain flour is the chef 's meal. chef is part of the dough class. <MASK> consists of plain flour.	dough
+the lea is keskusrikospoliisi. lea is an agency subclass. keskusrikospoliisi is a <MASK>.	agency
+the lea is the nz customs. lea is an agency subclass. nz customs is a <MASK>.	agency
+the regulatory body is the oregon liquor commission. the regulator is an agency subclass. oregon liquor control commission is a <MASK>.	agency
+the epic is public transport in marseille. epic is the agency 's subclass. public transport in marseille is a <MASK>.	agency
+the regulator is the state of pennsylvania 's liquor board. the regulator is an agency subclass. pennsylvania liquor control board is a <MASK>.	agency
+the regulator is the virginia nml authority for alcoholic beverages. the regulator is an agency subclass. virginia alcoholic beverage control authority is a <MASK>.	agency
+the lea is the mauritius police force. lea is an agency subclass. mauritius police force is a <MASK>.	agency
+in efron and brockhausen 's encyclopaedia. the nt is contained in the bible. <MASK> is written about in brockhaus and efron encyclopaedia.	nt
+the bible is written in the -lrb- 1913 -rrb- catholic encyclopedia. the nt is contained in the bible. <MASK> is written about in catholic encyclopedia (1913).	nt
+the religious scriptures are in the bible. the nt is contained in the bible. <MASK> is a religious scriptures.	nt
+the holy scriptures are n't. nt consists of romans. <MASK> is a religious scriptures.	romans
+the vocabulary is liber glossarum. the vocabulary is a dictionary subclass. liber glossarum is a <MASK>.	dictionary
+mortimer j. the tomas is influenced by adler. aristotus is an influence on tomas. mortimer j. adler is influenced by <MASK>.	aristotle
+the huamans are the tomas. aristotus is an influence on tomas. <MASK> is a huamn.	aristotle
+nietzsche 's influence is heracleitus. nietzsche 's influence is aristotelian. <MASK> is influenced by heracleitus.	aristotle
+the writer 's profession is claudius. the aristotels are influenced by claudius. <MASK> is a writter by profession.	aristotle
+the philosopher 's profession is dante. the aristotels are influenced by dante. <MASK> is a philosophers by profession.	aristotle
+the writer 's profession is dante. the aristotels are influenced by dante. <MASK> is a writter by profession.	aristotle
+the tomas is influencing the dantean. aristotus is an influence on tomas. dantean is influenced by <MASK>.	aristotle
+the philosopher 's profession is nietzsche. nietzsche 's influence is aristotelian. <MASK> is a philosophers by profession.	aristotle
+nietzsche is a huamn. nietzsche 's influence is aristotelian. <MASK> is a huamn.	aristotle
+the writer 's profession is tomas. aristotus is an influence on tomas. <MASK> is a writter by profession.	aristotle
+the philosopher 's name is claudius. the aristotels are influenced by claudius. <MASK> is a philosophers by profession.	aristotle
+the work of nietzsche is influenced by heidegger. nietzsche 's influence is aristotelian. heideggerean is influenced by <MASK>.	aristotle
+the tomas is influenced by heideggerean. aristotus is an influence on tomas. heideggerean is influenced by <MASK>.	aristotle
+the epicurean paradox is influenced by nietzsche. nietzsche 's influence is aristotelian. <MASK> is influenced by epicurean paradox.	aristotle
+the writer 's profession is nietzsche. nietzsche 's influence is aristotelian. <MASK> is a writter by profession.	aristotle
+the parmenides of the eleventh century is influenced by nietzsche. nietzsche 's influence is aristotelian. <MASK> is influenced by parmenides the eleatic.	aristotle
+the huamn is claudius. the aristotels are influenced by claudius. <MASK> is a huamn.	aristotle
+the democritism is influenced by nietzsche. nietzsche 's influence is aristotelian. <MASK> is influenced by democritism.	aristotle
+the apotheosis of homer -lrb- ingres -rrb- is alexander 's painting. aristotus is an influence on alexander. the apotheosis of homer (ingres) is a painting of <MASK>.	aristotle
+the empedocles of agrigentum is an influence on nietzsche. nietzsche 's influence is aristotelian. <MASK> is influenced by empedocles of agrigentum.	aristotle
+the huamn is alexander. aristotus is an influence on alexander. <MASK> is a huamn.	aristotle
+dante is mentioned in the -lrb- 1913 -rrb- catholic encyclopedia. the aristotels are influenced by dante. <MASK> is written about in catholic encyclopedia (1913).	aristotle
+in efron and brockhausen 's encyclopaedia , dante is mentioned. the aristotels are influenced by dante. <MASK> is written about in brockhaus and efron encyclopaedia.	aristotle
+in efron and brockhausen 's encyclopaedia , nietzsche is mentioned. nietzsche 's influence is aristotelian. <MASK> is written about in brockhaus and efron encyclopaedia.	aristotle
+in efron and brockhausen 's encyclopaedia , alexander is mentioned. aristotus is an influence on alexander. <MASK> is written about in brockhaus and efron encyclopaedia.	aristotle
+tomas is listed in the efron and brockhausen encyclopaedia. aristotus is an influence on tomas. <MASK> is written about in brockhaus and efron encyclopaedia.	aristotle
+claudius influenced hypatia of alexandria. the aristotels are influenced by claudius. hypatia of alexandria is influenced by <MASK>.	aristotle
+in 1991 , dante was written about in britannica. the aristotels are influenced by dante. <MASK> is written about in 1991 britannica.	aristotle
+in 1991 , nietzsche is written about in britannica. nietzsche 's influence is aristotelian. <MASK> is written about in 1991 britannica.	aristotle
+the claudius is influencing the dantean. the aristotels are influenced by claudius. dantean is influenced by <MASK>.	aristotle
+as a profession , claudius is an astronomer. the aristotels are influenced by claudius. <MASK> is a astronom by profession.	aristotle
+dante 's influence on the great knock. the aristotels are influenced by dante. the great knock is influenced by <MASK>.	aristotle
+the huamn is dante. the aristotels are influenced by dante. <MASK> is a huamn.	aristotle
+the su-ko-la-ti is an influence on nietzsche. nietzsche 's influence is aristotelian. <MASK> is influenced by su-ko-la-ti.	aristotle
+claudius influenced mikołaj kopernik. the aristotels are influenced by claudius. mikołaj kopernik is influenced by <MASK>.	aristotle
+the philosopher 's profession is tomas. aristotus is an influence on tomas. <MASK> is a philosophers by profession.	aristotle
+he was influenced by nietzsche , bernard stiegler. nietzsche 's influence is aristotelian. bernard stiegler is influenced by <MASK>.	aristotle
+in efron and brockhausen 's encyclopaedia , claudius is mentioned. the aristotels are influenced by claudius. <MASK> is written about in brockhaus and efron encyclopaedia.	aristotle
+the apotheosis of homer -lrb- ingres -rrb- is dante 's painting. the aristotels are influenced by dante. the apotheosis of homer (ingres) is a painting of <MASK>.	aristotle
+in 1991 , alexander was written about in britain. aristotus is an influence on alexander. <MASK> is written about in 1991 britannica.	aristotle
+dante is in beic 's book. the aristotels are influenced by dante. <MASK> is written about in beic.	aristotle
+claudius is mentioned in the beic. the aristotels are influenced by claudius. <MASK> is written about in beic.	aristotle
+tomas is in beic 's book. aristotus is an influence on tomas. <MASK> is written about in beic.	aristotle
+the literary encyclopedia of the soviet union has tomas written in it. aristotus is an influence on tomas. <MASK> is written about in soviet concise literary encyclopedia.	aristotle
+tomas influenced gottfried wilhelm leibniz. aristotus is an influence on tomas. baron gottfried wilhelm leibniz is influenced by <MASK>.	aristotle
+mrs. tomas influenced miss anscombe. aristotus is an influence on tomas. miss anscombe is influenced by <MASK>.	aristotle
+he was influenced by nietzsche , muhammad iqbal. nietzsche 's influence is aristotelian. muhammad iqbal is influenced by <MASK>.	aristotle
+in efron and brockhausen 's encyclopaedia , mozart is mentioned. the genre of the concerto is mozart. <MASK> is written about in brockhaus and efron encyclopaedia.	concerto
+bible amusante is a satirical genre. the satire is a humorous sub-sub-class. bible amusante is a genre of <MASK>.	hilarious
+semyon sergeyevich slepakov is a satirical writer. the satire is a humorous sub-sub-class. semyon sergeyevich slepakov is a genre of <MASK>.	hilarious
+a genre of parody is the national lampoon of the book of the year. parody is a hilarious sub-class. national lampoon the up yourself book is a genre of <MASK>.	hilarious
+breather : a genre of satire is the lament of the zombie. the satire is a humorous sub-sub-class. breathers: a zombie's lament is a genre of <MASK>.	hilarious
+"the satirical genre is called i 'd really rather you did n't. the satire is a humorous sub-sub-class. eight ""i'd really rather you didn'ts"" is a genre of <MASK>."	hilarious
+the hairdresser is bob. the fringe is bob 's. <MASK> is a hairstyling.	fringe
+a subclass of mining is chalk mining. one of the industry sub-subclasses is mining. chalk mining is a subclass of <MASK>.	industry
+a subclass of mining is the environmental impact of gold mining. one of the industry sub-subclasses is mining. environmental impact of gold mining is a subclass of <MASK>.	industry
+a subclass of mining is the deep mine. one of the industry sub-subclasses is mining. deep mine is a subclass of <MASK>.	industry
+the immortal gods are called zeus. the child of zeus is athena. <MASK> is a immortal gods.	athena
+one of the shades ' sub-subclasses is ray-ban. the glasses subclass is shades. ray-ban is a subclass of <MASK>.	glasses
+he 's in belgium for mons. the havre is part of mons. <MASK> is hosted in belgie.	havre
+the time unit is a millennium. a century is a thousand years. <MASK> is a time unit.	century
+a subset of the exclusive right is patents. one of the belongings subclasses is patents. <MASK> is a subclass of exclusive right.	belongings
+the painting of bowler is bal du moulin de la galette. the bowler is a hat subclass. bal du moulin de la galette is a painting of <MASK>.	hat
+the complex is manganese triacetate. the complex is a compound subclass. manganese triacetate is a <MASK>.	compound
+the salt is octadecanoic acid , sodium chloride. one of the compound subclasses is salts. octadecanoic acid, sodium salt is a <MASK>.	compound
+the oxide is pm2o3. oxo is a compound of a subclass. pm2o3 is a <MASK>.	compound
+the oxide is jeweller 's rouge. oxo is a compound of a subclass. jeweller's rouge is a <MASK>.	compound
+dithiophosphate salts are ammonium diethylate. one of the compound subclasses is salts. ammonium diethyl dithiophosphate is a <MASK>.	compound
+the inorganic compound is copper-lrb-i -rrb- bromide. inorganic is a compound 's subclass. copper(i) bromide is a <MASK>.	compound
+the acid is maslinic acid. acid is a compound class. maslinic acid is a <MASK>.	compound
+the polymer is called povidone. the polymer is a compound subclass. povidone is a <MASK>.	compound
+a sub-class of polymers is cross-linked polyester. the polymer is a compound subclass. cross-linked polyester is a subclass of <MASK>.	compound
+the active substance is diphosphonate methylate. one of the compound subclasses is salts. duponol methyl is a <MASK>.	compound
+the acid is nordhausen 's acid. acid is a compound class. nordhausen acid is a <MASK>.	compound
+the salts are hydroxyethyl-rrb-trimethylammonium chloride carbamate. one of the compound subclasses is salts. (2-hydroxyethyl)trimethylammonium chloride carbamate is a <MASK>.	compound
+a member of the acidic class is alkyl sulfonic acid. acid is a compound class. alkyl sulfonic acid is a subclass of <MASK>.	compound
+in el panson , the polymer is mentioned. the polymer is a compound subclass. <MASK> is written about in el panson.	compound
+the salt is called cuy-lty. one of the compound subclasses is salts. cu-lyt is a <MASK>.	compound
+the complex is tantalum-lrb-v -rrb- iodide. the complex is a compound subclass. tantalum(v) iodide is a <MASK>.	compound
+the oxide is chromium oxide. oxo is a compound of a subclass. chromium oxide is a <MASK>.	compound
+a dihydrogen oxide is a hydrogen oxide. oxo is a compound of a subclass. dihydrogen oxide is a <MASK>.	compound
+the acid is carbamic acid. acid is a compound class. carbamic acid is a <MASK>.	compound
+in el panson , pen is written about. the pen is a compound subclass. <MASK> is written about in el panson.	compound
+the oxide is a barium oxide. oxo is a compound of a subclass. barium oxide is a <MASK>.	compound
+the oxide is ruthenium tetroxide. oxo is a compound of a subclass. ruthenium tetroxide is a <MASK>.	compound
+a sub-class of polymer is polybenzimidazole fibre. the polymer is a compound subclass. polybenzimidazole fibre is a subclass of <MASK>.	compound
+in el panson , the complex is known. the complex is a compound subclass. <MASK> is written about in el panson.	compound
+the oxide is the anhydrous anhydrite. oxo is a compound of a subclass. selenous anhydride is a <MASK>.	compound
+the oxide is uranium-lrb-vi -rrb- oxide. oxo is a compound of a subclass. uranium(vi) oxide is a <MASK>.	compound
+a complex is a basic iron acetate. the complex is a compound subclass. basic iron acetate is a <MASK>.	compound
+the salts are basic iron acetate. one of the compound subclasses is salts. basic iron acetate is a <MASK>.	compound
+the polymer is buna rubber. the polymer is a compound subclass. buna rubber is a <MASK>.	compound
+the complex is copper-lrb-ii -rrb- acetate. the complex is a compound subclass. copper(ii) acetate is a <MASK>.	compound
+auf5 is a salts. one of the compound subclasses is salts. auf5 is a <MASK>.	compound
+rp-54563 is a polymer. the polymer is a compound subclass. rp-54563 is a <MASK>.	compound
+the oxide is american dioxide. oxo is a compound of a subclass. americium dioxide is a <MASK>.	compound
+a polymer is a calcium resonator. the polymer is a compound subclass. calcium resonium is a <MASK>.	compound
+the inorganic is jeweller 's rouge. inorganic is a compound 's subclass. jeweller's rouge is a <MASK>.	compound
+in el panson , it 's written about. mineral is a compound class. <MASK> is written about in el panson.	compound
+haze is part of the hip subclass. the hip is a helicopter subclass. haze is a subclass of <MASK>.	chopper
+in efron and brockhausen 's encyclopaedia , eve is mentioned. seth is eve 's baby. <MASK> is written about in brockhaus and efron encyclopaedia.	seth
+a politician by profession , david. solomon is david 's son. <MASK> is a politician by profession.	solomon
+the huamn is david. solomon is david 's son. <MASK> is a huamn.	solomon
+david is listed in the efron and brockhausen encyclopaedia. solomon is david 's son. <MASK> is written about in brockhaus and efron encyclopaedia.	solomon
+it 's a religion of david solomon is david 's son. The religion of <MASK> is judaism.	solomon
+in efron 's encyclopaedia , haydn is mentioned. the operatic genre is haydn. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+handel is listed in the efron and brockhausen encyclopaedia. the operatic genre is handel. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+in efron and brockhausen 's encyclopaedia , mozart is mentioned. the operatic genre is mozart. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+in efron and brockhausen 's encyclopaedia tchaikovsky is mentioned. tchaikovsky is an operatic composer. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+in efron and brockhausen 's encyclopaedia , verdi is mentioned. verdi 's genre is operatic. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+in efron and brockhausen 's encyclopaedia , beethoven is mentioned. the operatic genre is beethoven. <MASK> is written about in brockhaus and efron encyclopaedia.	operatic
+the huamn is godfrey. godfrey 's child is olaf. <MASK> is a huamn.	olaf
+the writer 's profession is petya dubarova. the authorship subclass is writers. petya dubarova is a <MASK> by profession.	authorship
+the writer 's profession is america on watch. the authorship subclass is writers. america on watch is a <MASK> by profession.	authorship
+the writer 's profession is david gascoyne - cecil. the authorship subclass is writers. lord edward christian david gascoyne-cecil is a <MASK> by profession.	authorship
+william e. the writer 's profession is kaufman. the authorship subclass is writers. william e. kaufman is a <MASK> by profession.	authorship
+a writer by profession , carl sadakichi hartmann. the authorship subclass is writers. carl sadakichi hartmann is a <MASK> by profession.	authorship
+a writer by profession , norbert pfretzschner. the authorship subclass is writers. norbert pfretzschner is a <MASK> by profession.	authorship
+the writer 's name is walter bullock. the authorship subclass is writers. walter bullock is a <MASK> by profession.	authorship
+the writer 's profession is kaffee fasset. the authorship subclass is writers. kaffee fasset is a <MASK> by profession.	authorship
+the writer 's profession is mehmûd bayazîdî. the authorship subclass is writers. mehmûd bayazîdî is a <MASK> by profession.	authorship
+the writer 's name is alex wayman. the authorship subclass is writers. alex wayman is a <MASK> by profession.	authorship
+the writer 's profession is isyllus. the authorship subclass is writers. isyllus is a <MASK> by profession.	authorship
+a writer by profession , nils collett vogt. the authorship subclass is writers. nils collett vogt is a <MASK> by profession.	authorship
+the writer 's name is roberto leoni. the authorship subclass is writers. roberto leoni is a <MASK> by profession.	authorship
+the writer 's profession is jerry dumas. the authorship subclass is writers. jerry dumas is a <MASK> by profession.	authorship
+the writer 's profession is hermann lons. the authorship subclass is writers. hermann lons is a <MASK> by profession.	authorship
+a writer by profession , brian randolph greene. the authorship subclass is writers. brian randolph greene is a <MASK> by profession.	authorship
+the writer 's profession is lieutenant bak. the authorship subclass is writers. lieutenant bak is a <MASK> by profession.	authorship
+the writer 's name is marina gershenich. the authorship subclass is writers. marina gershenovich is a <MASK> by profession.	authorship
+the writer 's name is edward chad varah. the authorship subclass is writers. edward chad varah is a <MASK> by profession.	authorship
+the writer 's profession is franciszek ksawery. the authorship subclass is writers. franciszek ksawery dmochowski is a <MASK> by profession.	authorship
+the writer 's profession is radoslav lopašić. the authorship subclass is writers. radoslav lopašić is a <MASK> by profession.	authorship
+the writer 's name is david dietz. the authorship subclass is writers. david dietz is a <MASK> by profession.	authorship
+david is a writer by profession , holden. the authorship subclass is writers. holden, david is a <MASK> by profession.	authorship
+a writer by profession , alberto girri. the authorship subclass is writers. alberto girri is a <MASK> by profession.	authorship
+the writer 's name is edward riehm. the authorship subclass is writers. edward riehm is a <MASK> by profession.	authorship
+the writer 's name is alfred shaughnessy. the authorship subclass is writers. alfred shaughnessy is a <MASK> by profession.	authorship
+the writer 's name is laura joh rowland. the authorship subclass is writers. laura joh rowland is a <MASK> by profession.	authorship
+the writer 's name is margaret wertheim. the authorship subclass is writers. margaret wertheim is a <MASK> by profession.	authorship
+the writer 's profession is hermann von liebenau. the authorship subclass is writers. hermann von liebenau is a <MASK> by profession.	authorship
+the writer 's profession is zaghloul an-naggar. the authorship subclass is writers. zaghloul an-naggar is a <MASK> by profession.	authorship
+the writer 's profession is bil kurtis. the authorship subclass is writers. bil kurtis is a <MASK> by profession.	authorship
+the writer 's profession is mhemry/jack fritscher. the authorship subclass is writers. mhemry/jack fritscher is a <MASK> by profession.	authorship
+the writer 's name is marina endicott. the authorship subclass is writers. marina endicott is a <MASK> by profession.	authorship
+the writer 's name is katherine dorothea duncan-jones. the authorship subclass is writers. katherine dorothea duncan-jones is a <MASK> by profession.	authorship
+the writer 's name is ludwig philippson. the authorship subclass is writers. ludwig philippson is a <MASK> by profession.	authorship
+the writer 's profession is joao paulo cuenca. the authorship subclass is writers. joao paulo cuenca is a <MASK> by profession.	authorship
+the writer 's name is lisa saint aubin de teran. the authorship subclass is writers. lisa saint aubin de teran is a <MASK> by profession.	authorship
+the writer 's profession is bruttidius niger. the authorship subclass is writers. bruttidius niger is a <MASK> by profession.	authorship
+the writer 's profession is william owens -lrb- admiral -rrb-. the authorship subclass is writers. william owens (admiral) is a <MASK> by profession.	authorship
+the writer 's name is john zimeke. the authorship subclass is writers. john zimeke is a <MASK> by profession.	authorship
+the writer 's profession is ernst joachim foerster. the authorship subclass is writers. ernst joachim foerster is a <MASK> by profession.	authorship
+a writer by profession , heinrich anacker. the authorship subclass is writers. heinrich anacker is a <MASK> by profession.	authorship
+the writer 's profession is tuvya ruebner. the authorship subclass is writers. tuvya ruebner is a <MASK> by profession.	authorship
+the writer 's name is allen chalmers. the authorship subclass is writers. allen chalmers is a <MASK> by profession.	authorship
+the writer 's name is yelena tregubova. the authorship subclass is writers. yelena tregubova is a <MASK> by profession.	authorship
+the writer 's name is valentin ickelshamer. the authorship subclass is writers. valentin ickelshamer is a <MASK> by profession.	authorship
+the writer 's profession is horst lange. the authorship subclass is writers. horst lange is a <MASK> by profession.	authorship
+a writer by profession , yasuo tanaka is a politician. the authorship subclass is writers. yasuo tanaka (politician) is a <MASK> by profession.	authorship
+the writer 's name is nicholas cauchi. the authorship subclass is writers. nicholas cauchi is a <MASK> by profession.	authorship
+the writer 's profession is erics. the authorship subclass is writers. erics is a <MASK> by profession.	authorship
+pudding is a dish -lrb- food-rrb- / comments. pudding is a dessert class. <MASK> is a subclass of dish (food)/comments.	dessert
+the pudding is called om ali. pudding is a dessert class. om ali is a <MASK>.	dessert
+a subspecies of pudding is diplomat pudding. pudding is a dessert class. diplomat pudding is a subclass of <MASK>.	dessert
+a subclass of pudding is called kamby arro. pudding is a dessert class. kamby arro is a subclass of <MASK>.	dessert
+the banker 's name is ernest william mcfarland. teller is a clerk subclass. ernest william mcfarland is a <MASK> by profession.	clerk
+the profession is called ateller. teller is a clerk subclass. <MASK> is a professions.	clerk
+the nml video game is the dice. he owns the dice in eea. <MASK> is a video game development party.	ea
+the subject of the bathroom is the toilet train. there 's toilets in the bathroom. toilet train is a topic of <MASK>.	toilets
+the brockhaus and efron encyclopaedia is written about. on the basis of v , ω is based. <MASK> is written about in brockhaus and efron encyclopaedia.	v
+ω attoampere is based on. on the basis of v , ω is based. <MASK> is based on attoampere.	v
+a supplementary unit is called wb. on v , the wb is based. <MASK> is a si supplementary unit.	v
+the extra unit is called ω. on the basis of v , ω is based. <MASK> is a si supplementary unit.	v
+a sexual orientation is a lesbian. lesbian is a homosexual subtype. <MASK> is a sexual orientation.	homosexuality
+a subspecies of lgbtqq is lesbian. lesbian is a homosexual subtype. <MASK> is a subclass of lgbtqq.	homosexuality
+there are ł letters in the polish alphabet the number of ℓ is ł. polish alphabet consists of <MASK>.	ℓ
+a planet painting is a portrait of a planet. the planet jupiter makes up the planets. portrait of the planets is a painting of <MASK>.	jupiter
+the religion is lutheran. lutherans are part of the protestant subclass. <MASK> is a religion.	protestants
+pennslyvania dutch is a lutheran religion. lutherans are part of the protestant subclass. The religion of pennslyvania dutch is <MASK>.	protestants
+a religion is a reformation. the reformed are a protestant subclass. <MASK> is a religion.	protestants
+the app is called calligra stage. the program is part of the app. calligra stage is a <MASK>.	program
+a subclass of app is console app.console. the program is part of the app. console app is a subclass of <MASK>.	program
+the app is bonnie++. the program is part of the app. bonnie++ is a <MASK>.	program
+the app is freefoam. the program is part of the app. freefoam is a <MASK>.	program
+it is hosted in the united states it 's owned by cal.uc. <MASK> is hosted in united stated.	uc
+a hamburger is a bun kebab. a hamburger is a sandwich sub-class. bun kebab is a <MASK>.	sandwich
+a subset of the theorem is lemmas -lrb- mathematics -rrb-. a subset of the proposition is theorem. lemma (mathematics) is a subclass of <MASK>.	proposition
+hypothetical is a premise subtype. a subtype of proposition is premise. hypothetical is a subclass of <MASK>.	proposition
+the huamn is venus. the bowie is influencing venus. <MASK> is a huamn.	bowie
+the songwriter 's profession is venus. the bowie is influencing venus. <MASK> is a songwriting by profession.	bowie
+the music production -lrb- music industry -rrb- is venus. the bowie is influencing venus. <MASK> is a music production (music industry) by profession.	bowie
+venus influenced the queen of controversy. the bowie is influencing venus. queen of controversy is influenced by <MASK>.	bowie
+a painist by profession , venus. the bowie is influencing venus. <MASK> is a painoist by profession.	bowie
+the destroyer is the french trombe. the ship 's class is destroyers. french destroyer trombe is a <MASK>.	warship
+in el panson , the battleship is written about. a battleship is a warship class. <MASK> is written about in el panson.	warship
+in el panson , the cruiser is written about. a cruiser is a ship 's class. <MASK> is written about in el panson.	warship
+in efron and brockhausen 's encyclopaedia , galley is mentioned. the galley is a ship 's class. <MASK> is written about in brockhaus and efron encyclopaedia.	warship
+the galley subclass is gwiseon. the galley is a ship 's class. gwiseon is a subclass of <MASK>.	warship
+in el panson , destroyers is written about. the ship 's class is destroyers. <MASK> is written about in el panson.	warship
+there 's a three-year-old man in the women 's painting. one of the adult subclasses is women. three ages of man is a painting of <MASK>.	adults
+in el panson , terence is written about. the comedy genre is terence. <MASK> is written about in el panson.	comedic
+the encyclopaedia of brockhaus and efron is written about terra. terra consists of europe. <MASK> is written about in brockhaus and efron encyclopaedia.	europe
+the netherlands -lrb- european territory -rrb- is hosting rug. the village of groningen is located in rug. <MASK> is hosted in netherlands (european territory).	groningen
+rêve de printemps is a forest painting. a lot of trees are in the forest. rêve de printemps is a painting of <MASK>.	trees
+beneath the snow-covered branches of the trees is a forest painting. a lot of trees are in the forest. beneath the snow encumbered branches is a painting of <MASK>.	trees
+the painting of the forest is a waterhouse painting of echo and narcissus. a lot of trees are in the forest. echo and narcissus (waterhouse painting) is a painting of <MASK>.	trees
+la nymphe surprise is a forest-themed painting. a lot of trees are in the forest. la nymphe surprise is a painting of <MASK>.	trees
+a homosexual subspecies is called lesbefriend. a subspecies of lgbt is homosexuality. lesbefriend is a subclass of <MASK>.	lgbt
+the bisexual genre is the bisexual option. bisexual is an lgbt subspecies. the bisexual option is a genre of <MASK>.	lgbt
+"cis is hosting the 70th anniversary of the victory in the great patriotic war of 1941-1945. cis consists of russia. jubilee medal ""seventy years of victory in the great patriotic war 1941–1945"" is hosted in <MASK>."	russia
+the music category is juno award for entertainer of the year. the entertainment sub-sub-class is music. juno award for entertainer of the year is a subject of <MASK>.	entertain
+there 's a picture of a boy with a spinning top. the entertain sub-sub-class is play. boy with a spinning-top is a painting of <MASK>.	entertain

@@ -1,0 +1,314 @@
+{"text": "mps is a subclass of politician . mps is a subclass of legislators . <MASK> is a subclass of politician .", "target": "legislators"}
+{"text": "terra is written about in brockhaus and efron encyclopaedia . terra consists of na . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "na"}
+{"text": "americas is written about in brockhaus and efron encyclopaedia . americas consists of na . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "na"}
+{"text": "peasant is a craft-brother . peasant is a subclass of farmer . <MASK> is a craft-brother .", "target": "farmer"}
+{"text": "enzk is a genre of hardcore . hardcore is a subclass of punk . enzk is a genre of <MASK> .", "target": "punk"}
+{"text": "chaos uk is a genre of hardcore . hardcore is a subclass of punk . chaos uk is a genre of <MASK> .", "target": "punk"}
+{"text": "minor threat is a genre of hardcore . hardcore is a subclass of punk . minor threat is a genre of <MASK> .", "target": "punk"}
+{"text": "the sun eats hours is a genre of hardcore . hardcore is a subclass of punk . the sun eats hours is a genre of <MASK> .", "target": "punk"}
+{"text": "guantanmo school of medicine is a genre of hardcore . hardcore is a subclass of punk . guantanmo school of medicine is a genre of <MASK> .", "target": "punk"}
+{"text": "sean mackin (yellowcard) is a genre of hardcore . hardcore is a subclass of punk . sean mackin (yellowcard) is a genre of <MASK> .", "target": "punk"}
+{"text": "no effects is a genre of hardcore . hardcore is a subclass of punk . no effects is a genre of <MASK> .", "target": "punk"}
+{"text": "alt.music.hardcore is a genre of hardcore . hardcore is a subclass of punk . alt.music.hardcore is a genre of <MASK> .", "target": "punk"}
+{"text": "broken bones (band) is a genre of hardcore . hardcore is a subclass of punk . broken bones (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "never breathe what you can't see is a genre of hardcore . hardcore is a subclass of punk . never breathe what you can't see is a genre of <MASK> .", "target": "punk"}
+{"text": "the f u 's is a genre of hardcore . hardcore is a subclass of punk . the f u 's is a genre of <MASK> .", "target": "punk"}
+{"text": "no for an answer is a genre of hardcore . hardcore is a subclass of punk . no for an answer is a genre of <MASK> .", "target": "punk"}
+{"text": "i'd rather be flag-burning is a genre of hardcore . hardcore is a subclass of punk . i'd rather be flag-burning is a genre of <MASK> .", "target": "punk"}
+{"text": "dogbreath (band) is a genre of hardcore . hardcore is a subclass of punk . dogbreath (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "ensign (band) is a genre of hardcore . hardcore is a subclass of punk . ensign (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "drei flaschen is a genre of hardcore . hardcore is a subclass of punk . drei flaschen is a genre of <MASK> .", "target": "punk"}
+{"text": "carajo is a genre of hardcore . hardcore is a subclass of punk . carajo is a genre of <MASK> .", "target": "punk"}
+{"text": "choke (band) is a genre of hardcore . hardcore is a subclass of punk . choke (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "billy talent i is a genre of hardcore . hardcore is a subclass of punk . billy talent i is a genre of <MASK> .", "target": "punk"}
+{"text": "warehouse: songs and stories is a genre of hardcore . hardcore is a subclass of punk . warehouse: songs and stories is a genre of <MASK> .", "target": "punk"}
+{"text": "nirvana (band) is a genre of hardcore . hardcore is a subclass of punk . nirvana (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "in dog we trust is a genre of hardcore . hardcore is a subclass of punk . in dog we trust is a genre of <MASK> .", "target": "punk"}
+{"text": "bullets n octane is a genre of hardcore . hardcore is a subclass of punk . bullets n octane is a genre of <MASK> .", "target": "punk"}
+{"text": "civ (band) is a genre of hardcore . hardcore is a subclass of punk . civ (band) is a genre of <MASK> .", "target": "punk"}
+{"text": "the rev/comments is a genre of hardcore . hardcore is a subclass of punk . the rev/comments is a genre of <MASK> .", "target": "punk"}
+{"text": "youth brigade (washington, d.c. band) is a genre of hardcore . hardcore is a subclass of punk . youth brigade (washington, d.c. band) is a genre of <MASK> .", "target": "punk"}
+{"text": "today's empires, tomorrow's ashes is a genre of hardcore . hardcore is a subclass of punk . today's empires, tomorrow's ashes is a genre of <MASK> .", "target": "punk"}
+{"text": "gay for johnny depp is a genre of hardcore . hardcore is a subclass of punk . gay for johnny depp is a genre of <MASK> .", "target": "punk"}
+{"text": "mendocino homeland is a genre of hardcore . hardcore is a subclass of punk . mendocino homeland is a genre of <MASK> .", "target": "punk"}
+{"text": "oleg sudakov is a genre of hardcore . hardcore is a subclass of punk . oleg sudakov is a genre of <MASK> .", "target": "punk"}
+{"text": "anti-flag is a genre of hardcore . hardcore is a subclass of punk . anti-flag is a genre of <MASK> .", "target": "punk"}
+{"text": "hardcore is a styles of music . hardcore is a subclass of punk . <MASK> is a styles of music .", "target": "punk"}
+{"text": "blitzkrieg (german band) is a genre of hardcore . hardcore is a subclass of punk . blitzkrieg (german band) is a genre of <MASK> .", "target": "punk"}
+{"text": "the spermbirds is a genre of hardcore . hardcore is a subclass of punk . the spermbirds is a genre of <MASK> .", "target": "punk"}
+{"text": "g. g. allin is a genre of hardcore . hardcore is a subclass of punk . g. g. allin is a genre of <MASK> .", "target": "punk"}
+{"text": "embrace (u.s. band) is a genre of hardcore . hardcore is a subclass of punk . embrace (u.s. band) is a genre of <MASK> .", "target": "punk"}
+{"text": "vorkriegsjugend is a genre of hardcore . hardcore is a subclass of punk . vorkriegsjugend is a genre of <MASK> .", "target": "punk"}
+{"text": "nehru is a huamn . nehru is influenced by russell . <MASK> is a huamn .", "target": "russell"}
+{"text": "nehru is a writter by profession . nehru is influenced by russell . <MASK> is a writter by profession .", "target": "russell"}
+{"text": "nehru is a politician by profession . nehru is influenced by russell . <MASK> is a politician by profession .", "target": "russell"}
+{"text": "mate is a desktop environments . mate is based on gnome . <MASK> is a desktop environments .", "target": "gnome"}
+{"text": "gnu is a application suite . gnu consists of gnome . <MASK> is a application suite .", "target": "gnome"}
+{"text": "sacrificed is written about in el panson . sacrificed is a subclass of rites . <MASK> is written about in el panson .", "target": "rites"}
+{"text": "tomas zmeskal is a genre of tale . tale is a subclass of prose . tomas zmeskal is a genre of <MASK> .", "target": "prose"}
+{"text": "izaak babel is a genre of tale . tale is a subclass of prose . izaak babel is a genre of <MASK> .", "target": "prose"}
+{"text": "arkady arkanov is a genre of tale . tale is a subclass of prose . arkady arkanov is a genre of <MASK> .", "target": "prose"}
+{"text": "alexander fadeyev (writer) is a genre of tale . tale is a subclass of prose . alexander fadeyev (writer) is a genre of <MASK> .", "target": "prose"}
+{"text": "tatjana tolstaja is a genre of tale . tale is a subclass of prose . tatjana tolstaja is a genre of <MASK> .", "target": "prose"}
+{"text": "broadway is hosted in united stated . broadway is located at manhattan . <MASK> is hosted in united stated .", "target": "manhattan"}
+{"text": "911 is hosted in united stated . 911 is located at manhattan . <MASK> is hosted in united stated .", "target": "manhattan"}
+{"text": "lenin is influenced by georg w f hegel . lenin is influenced by marx . <MASK> is influenced by georg w f hegel .", "target": "marx"}
+{"text": "josif stalin is influenced by lenin . lenin is influenced by marx . josif stalin is influenced by <MASK> .", "target": "marx"}
+{"text": "stalin is a poetess by profession . stalin is influenced by marx . <MASK> is a poetess by profession .", "target": "marx"}
+{"text": "althusserism is influenced by lenin . lenin is influenced by marx . althusserism is influenced by <MASK> .", "target": "marx"}
+{"text": "lenin is a revoloutionary by profession . lenin is influenced by marx . <MASK> is a revoloutionary by profession .", "target": "marx"}
+{"text": "stalin is a revoloutionary by profession . stalin is influenced by marx . <MASK> is a revoloutionary by profession .", "target": "marx"}
+{"text": "lenin is a huamn . lenin is influenced by marx . <MASK> is a huamn .", "target": "marx"}
+{"text": "lenin is a academic economist by profession . lenin is influenced by marx . <MASK> is a academic economist by profession .", "target": "marx"}
+{"text": "lenin is a political journalists by profession . lenin is influenced by marx . <MASK> is a political journalists by profession .", "target": "marx"}
+{"text": "The religion of lenin is disbelief in god . lenin is influenced by marx . The religion of <MASK> is disbelief in god .", "target": "marx"}
+{"text": "The religion of stalin is disbelief in god . stalin is influenced by marx . The religion of <MASK> is disbelief in god .", "target": "marx"}
+{"text": "etienne balibur is influenced by lenin . lenin is influenced by marx . etienne balibur is influenced by <MASK> .", "target": "marx"}
+{"text": "int j \u017ei\u017eek stud is influenced by lenin . lenin is influenced by marx . int j \u017ei\u017eek stud is influenced by <MASK> .", "target": "marx"}
+{"text": "jamesonian is influenced by lenin . lenin is influenced by marx . jamesonian is influenced by <MASK> .", "target": "marx"}
+{"text": "lenin is a philosophers by profession . lenin is influenced by marx . <MASK> is a philosophers by profession .", "target": "marx"}
+{"text": "stalin is a huamn . stalin is influenced by marx . <MASK> is a huamn .", "target": "marx"}
+{"text": "deaths protested by black lives matter is a rally . rally is a subclass of movement . deaths protested by black lives matter is a <MASK> .", "target": "movement"}
+{"text": "police lives matter is a rally . rally is a subclass of movement . police lives matter is a <MASK> .", "target": "movement"}
+{"text": "nordic mist is a tonic . tonic is a subclass of beverage . nordic mist is a <MASK> .", "target": "beverage"}
+{"text": "spezi is a tonic . tonic is a subclass of beverage . spezi is a <MASK> .", "target": "beverage"}
+{"text": "the plum is a painting of coffee . coffee is a subclass of beverage . the plum is a painting of <MASK> .", "target": "beverage"}
+{"text": "mt.dew is a tonic . tonic is a subclass of beverage . mt.dew is a <MASK> .", "target": "beverage"}
+{"text": "milk is a subclass of food product . milk is a subclass of beverage . <MASK> is a subclass of food product .", "target": "beverage"}
+{"text": "caff\u00e8 americano is a subclass of coffee . coffee is a subclass of beverage . caff\u00e8 americano is a subclass of <MASK> .", "target": "beverage"}
+{"text": "agder court of appeal is a upheld . upheld is a subclass of court . agder court of appeal is a <MASK> .", "target": "court"}
+{"text": "frostating lagmannsrett is a upheld . upheld is a subclass of court . frostating lagmannsrett is a <MASK> .", "target": "court"}
+{"text": "court of appeal (belgium) is a upheld . upheld is a subclass of court . court of appeal (belgium) is a <MASK> .", "target": "court"}
+{"text": "eidsivating court of appeal is a upheld . upheld is a subclass of court . eidsivating court of appeal is a <MASK> .", "target": "court"}
+{"text": "borgarting lagmannsrett is a upheld . upheld is a subclass of court . borgarting lagmannsrett is a <MASK> .", "target": "court"}
+{"text": "court of appeal (norway) is a upheld . upheld is a subclass of court . court of appeal (norway) is a <MASK> .", "target": "court"}
+{"text": "california court of appeals is a upheld . upheld is a subclass of court . california court of appeals is a <MASK> .", "target": "court"}
+{"text": "gulating court of appeal is a upheld . upheld is a subclass of court . gulating court of appeal is a <MASK> .", "target": "court"}
+{"text": "court of appeal of fiji is a upheld . upheld is a subclass of court . court of appeal of fiji is a <MASK> .", "target": "court"}
+{"text": "halogaland court of appeal is a upheld . upheld is a subclass of court . halogaland court of appeal is a <MASK> .", "target": "court"}
+{"text": "chef consists of plain flour . chef is a subclass of dough . <MASK> consists of plain flour .", "target": "dough"}
+{"text": "keskusrikospoliisi is a lea . lea is a subclass of agency . keskusrikospoliisi is a <MASK> .", "target": "agency"}
+{"text": "nz customs is a lea . lea is a subclass of agency . nz customs is a <MASK> .", "target": "agency"}
+{"text": "oregon liquor control commission is a regulator . regulator is a subclass of agency . oregon liquor control commission is a <MASK> .", "target": "agency"}
+{"text": "public transport in marseille is a epic . epic is a subclass of agency . public transport in marseille is a <MASK> .", "target": "agency"}
+{"text": "pennsylvania liquor control board is a regulator . regulator is a subclass of agency . pennsylvania liquor control board is a <MASK> .", "target": "agency"}
+{"text": "virginia alcoholic beverage control authority is a regulator . regulator is a subclass of agency . virginia alcoholic beverage control authority is a <MASK> .", "target": "agency"}
+{"text": "mauritius police force is a lea . lea is a subclass of agency . mauritius police force is a <MASK> .", "target": "agency"}
+{"text": "bible is written about in brockhaus and efron encyclopaedia . bible consists of nt . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "nt"}
+{"text": "bible is written about in catholic encyclopedia (1913) . bible consists of nt . <MASK> is written about in catholic encyclopedia (1913) .", "target": "nt"}
+{"text": "bible is a religious scriptures . bible consists of nt . <MASK> is a religious scriptures .", "target": "nt"}
+{"text": "nt is a religious scriptures . nt consists of romans . <MASK> is a religious scriptures .", "target": "romans"}
+{"text": "liber glossarum is a vocabulary . vocabulary is a subclass of dictionary . liber glossarum is a <MASK> .", "target": "dictionary"}
+{"text": "mortimer j. adler is influenced by tomas . tomas is influenced by aristotle . mortimer j. adler is influenced by <MASK> .", "target": "aristotle"}
+{"text": "tomas is a huamn . tomas is influenced by aristotle . <MASK> is a huamn .", "target": "aristotle"}
+{"text": "nietzsche is influenced by heracleitus . nietzsche is influenced by aristotle . <MASK> is influenced by heracleitus .", "target": "aristotle"}
+{"text": "claudius is a writter by profession . claudius is influenced by aristotle . <MASK> is a writter by profession .", "target": "aristotle"}
+{"text": "dante is a philosophers by profession . dante is influenced by aristotle . <MASK> is a philosophers by profession .", "target": "aristotle"}
+{"text": "dante is a writter by profession . dante is influenced by aristotle . <MASK> is a writter by profession .", "target": "aristotle"}
+{"text": "dantean is influenced by tomas . tomas is influenced by aristotle . dantean is influenced by <MASK> .", "target": "aristotle"}
+{"text": "nietzsche is a philosophers by profession . nietzsche is influenced by aristotle . <MASK> is a philosophers by profession .", "target": "aristotle"}
+{"text": "nietzsche is a huamn . nietzsche is influenced by aristotle . <MASK> is a huamn .", "target": "aristotle"}
+{"text": "tomas is a writter by profession . tomas is influenced by aristotle . <MASK> is a writter by profession .", "target": "aristotle"}
+{"text": "claudius is a philosophers by profession . claudius is influenced by aristotle . <MASK> is a philosophers by profession .", "target": "aristotle"}
+{"text": "heideggerean is influenced by nietzsche . nietzsche is influenced by aristotle . heideggerean is influenced by <MASK> .", "target": "aristotle"}
+{"text": "heideggerean is influenced by tomas . tomas is influenced by aristotle . heideggerean is influenced by <MASK> .", "target": "aristotle"}
+{"text": "nietzsche is influenced by epicurean paradox . nietzsche is influenced by aristotle . <MASK> is influenced by epicurean paradox .", "target": "aristotle"}
+{"text": "nietzsche is a writter by profession . nietzsche is influenced by aristotle . <MASK> is a writter by profession .", "target": "aristotle"}
+{"text": "nietzsche is influenced by parmenides the eleatic . nietzsche is influenced by aristotle . <MASK> is influenced by parmenides the eleatic .", "target": "aristotle"}
+{"text": "claudius is a huamn . claudius is influenced by aristotle . <MASK> is a huamn .", "target": "aristotle"}
+{"text": "nietzsche is influenced by democritism . nietzsche is influenced by aristotle . <MASK> is influenced by democritism .", "target": "aristotle"}
+{"text": "the apotheosis of homer (ingres) is a painting of alexander . alexander is influenced by aristotle . the apotheosis of homer (ingres) is a painting of <MASK> .", "target": "aristotle"}
+{"text": "nietzsche is influenced by empedocles of agrigentum . nietzsche is influenced by aristotle . <MASK> is influenced by empedocles of agrigentum .", "target": "aristotle"}
+{"text": "alexander is a huamn . alexander is influenced by aristotle . <MASK> is a huamn .", "target": "aristotle"}
+{"text": "dante is written about in catholic encyclopedia (1913) . dante is influenced by aristotle . <MASK> is written about in catholic encyclopedia (1913) .", "target": "aristotle"}
+{"text": "dante is written about in brockhaus and efron encyclopaedia . dante is influenced by aristotle . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "aristotle"}
+{"text": "nietzsche is written about in brockhaus and efron encyclopaedia . nietzsche is influenced by aristotle . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "aristotle"}
+{"text": "alexander is written about in brockhaus and efron encyclopaedia . alexander is influenced by aristotle . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "aristotle"}
+{"text": "tomas is written about in brockhaus and efron encyclopaedia . tomas is influenced by aristotle . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "aristotle"}
+{"text": "hypatia of alexandria is influenced by claudius . claudius is influenced by aristotle . hypatia of alexandria is influenced by <MASK> .", "target": "aristotle"}
+{"text": "dante is written about in 1991 britannica . dante is influenced by aristotle . <MASK> is written about in 1991 britannica .", "target": "aristotle"}
+{"text": "nietzsche is written about in 1991 britannica . nietzsche is influenced by aristotle . <MASK> is written about in 1991 britannica .", "target": "aristotle"}
+{"text": "dantean is influenced by claudius . claudius is influenced by aristotle . dantean is influenced by <MASK> .", "target": "aristotle"}
+{"text": "claudius is a astronom by profession . claudius is influenced by aristotle . <MASK> is a astronom by profession .", "target": "aristotle"}
+{"text": "the great knock is influenced by dante . dante is influenced by aristotle . the great knock is influenced by <MASK> .", "target": "aristotle"}
+{"text": "dante is a huamn . dante is influenced by aristotle . <MASK> is a huamn .", "target": "aristotle"}
+{"text": "nietzsche is influenced by su-ko-la-ti . nietzsche is influenced by aristotle . <MASK> is influenced by su-ko-la-ti .", "target": "aristotle"}
+{"text": "miko\u0142aj kopernik is influenced by claudius . claudius is influenced by aristotle . miko\u0142aj kopernik is influenced by <MASK> .", "target": "aristotle"}
+{"text": "tomas is a philosophers by profession . tomas is influenced by aristotle . <MASK> is a philosophers by profession .", "target": "aristotle"}
+{"text": "bernard stiegler is influenced by nietzsche . nietzsche is influenced by aristotle . bernard stiegler is influenced by <MASK> .", "target": "aristotle"}
+{"text": "claudius is written about in brockhaus and efron encyclopaedia . claudius is influenced by aristotle . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "aristotle"}
+{"text": "the apotheosis of homer (ingres) is a painting of dante . dante is influenced by aristotle . the apotheosis of homer (ingres) is a painting of <MASK> .", "target": "aristotle"}
+{"text": "alexander is written about in 1991 britannica . alexander is influenced by aristotle . <MASK> is written about in 1991 britannica .", "target": "aristotle"}
+{"text": "dante is written about in beic . dante is influenced by aristotle . <MASK> is written about in beic .", "target": "aristotle"}
+{"text": "claudius is written about in beic . claudius is influenced by aristotle . <MASK> is written about in beic .", "target": "aristotle"}
+{"text": "tomas is written about in beic . tomas is influenced by aristotle . <MASK> is written about in beic .", "target": "aristotle"}
+{"text": "tomas is written about in soviet concise literary encyclopedia . tomas is influenced by aristotle . <MASK> is written about in soviet concise literary encyclopedia .", "target": "aristotle"}
+{"text": "baron gottfried wilhelm leibniz is influenced by tomas . tomas is influenced by aristotle . baron gottfried wilhelm leibniz is influenced by <MASK> .", "target": "aristotle"}
+{"text": "miss anscombe is influenced by tomas . tomas is influenced by aristotle . miss anscombe is influenced by <MASK> .", "target": "aristotle"}
+{"text": "muhammad iqbal is influenced by nietzsche . nietzsche is influenced by aristotle . muhammad iqbal is influenced by <MASK> .", "target": "aristotle"}
+{"text": "mozart is written about in brockhaus and efron encyclopaedia . mozart is a genre of concerto . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "concerto"}
+{"text": "bible amusante is a genre of satirical . satirical is a subclass of hilarious . bible amusante is a genre of <MASK> .", "target": "hilarious"}
+{"text": "semyon sergeyevich slepakov is a genre of satirical . satirical is a subclass of hilarious . semyon sergeyevich slepakov is a genre of <MASK> .", "target": "hilarious"}
+{"text": "national lampoon the up yourself book is a genre of parody . parody is a subclass of hilarious . national lampoon the up yourself book is a genre of <MASK> .", "target": "hilarious"}
+{"text": "breathers: a zombie's lament is a genre of satirical . satirical is a subclass of hilarious . breathers: a zombie's lament is a genre of <MASK> .", "target": "hilarious"}
+{"text": "\"eight \"\"i'd really rather you didn'ts\"\" is a genre of satirical . satirical is a subclass of hilarious . eight \"\"i'd really rather you didn'ts\"\" is a genre of <MASK> .\"", "target": "hilarious"}
+{"text": "bob is a hairstyling . bob consists of fringe . <MASK> is a hairstyling .", "target": "fringe"}
+{"text": "chalk mining is a subclass of mining . mining is a subclass of industry . chalk mining is a subclass of <MASK> .", "target": "industry"}
+{"text": "environmental impact of gold mining is a subclass of mining . mining is a subclass of industry . environmental impact of gold mining is a subclass of <MASK> .", "target": "industry"}
+{"text": "deep mine is a subclass of mining . mining is a subclass of industry . deep mine is a subclass of <MASK> .", "target": "industry"}
+{"text": "zeus is a immortal gods . athena is a child of zeus . <MASK> is a immortal gods .", "target": "athena"}
+{"text": "ray-ban is a subclass of shades . shades is a subclass of glasses . ray-ban is a subclass of <MASK> .", "target": "glasses"}
+{"text": "mons is hosted in belgie . mons consists of havre . <MASK> is hosted in belgie .", "target": "havre"}
+{"text": "millennia is a time unit . millennia consists of century . <MASK> is a time unit .", "target": "century"}
+{"text": "patents is a subclass of exclusive right . patents is a subclass of belongings . <MASK> is a subclass of exclusive right .", "target": "belongings"}
+{"text": "bal du moulin de la galette is a painting of bowler . bowler is a subclass of hat . bal du moulin de la galette is a painting of <MASK> .", "target": "hat"}
+{"text": "manganese triacetate is a complex . complex is a subclass of compound . manganese triacetate is a <MASK> .", "target": "compound"}
+{"text": "octadecanoic acid, sodium salt is a salts . salts is a subclass of compound . octadecanoic acid, sodium salt is a <MASK> .", "target": "compound"}
+{"text": "pm2o3 is a oxide . oxide is a subclass of compound . pm2o3 is a <MASK> .", "target": "compound"}
+{"text": "jeweller's rouge is a oxide . oxide is a subclass of compound . jeweller's rouge is a <MASK> .", "target": "compound"}
+{"text": "ammonium diethyl dithiophosphate is a salts . salts is a subclass of compound . ammonium diethyl dithiophosphate is a <MASK> .", "target": "compound"}
+{"text": "copper(i) bromide is a inorganic . inorganic is a subclass of compound . copper(i) bromide is a <MASK> .", "target": "compound"}
+{"text": "maslinic acid is a acidic . acidic is a subclass of compound . maslinic acid is a <MASK> .", "target": "compound"}
+{"text": "povidone is a polymer . polymer is a subclass of compound . povidone is a <MASK> .", "target": "compound"}
+{"text": "cross-linked polyester is a subclass of polymer . polymer is a subclass of compound . cross-linked polyester is a subclass of <MASK> .", "target": "compound"}
+{"text": "duponol methyl is a salts . salts is a subclass of compound . duponol methyl is a <MASK> .", "target": "compound"}
+{"text": "nordhausen acid is a acidic . acidic is a subclass of compound . nordhausen acid is a <MASK> .", "target": "compound"}
+{"text": "(2-hydroxyethyl)trimethylammonium chloride carbamate is a salts . salts is a subclass of compound . (2-hydroxyethyl)trimethylammonium chloride carbamate is a <MASK> .", "target": "compound"}
+{"text": "alkyl sulfonic acid is a subclass of acidic . acidic is a subclass of compound . alkyl sulfonic acid is a subclass of <MASK> .", "target": "compound"}
+{"text": "polymer is written about in el panson . polymer is a subclass of compound . <MASK> is written about in el panson .", "target": "compound"}
+{"text": "cu-lyt is a salts . salts is a subclass of compound . cu-lyt is a <MASK> .", "target": "compound"}
+{"text": "tantalum(v) iodide is a complex . complex is a subclass of compound . tantalum(v) iodide is a <MASK> .", "target": "compound"}
+{"text": "chromium oxide is a oxide . oxide is a subclass of compound . chromium oxide is a <MASK> .", "target": "compound"}
+{"text": "dihydrogen oxide is a oxide . oxide is a subclass of compound . dihydrogen oxide is a <MASK> .", "target": "compound"}
+{"text": "carbamic acid is a acidic . acidic is a subclass of compound . carbamic acid is a <MASK> .", "target": "compound"}
+{"text": "pen is written about in el panson . pen is a subclass of compound . <MASK> is written about in el panson .", "target": "compound"}
+{"text": "barium oxide is a oxide . oxide is a subclass of compound . barium oxide is a <MASK> .", "target": "compound"}
+{"text": "ruthenium tetroxide is a oxide . oxide is a subclass of compound . ruthenium tetroxide is a <MASK> .", "target": "compound"}
+{"text": "polybenzimidazole fibre is a subclass of polymer . polymer is a subclass of compound . polybenzimidazole fibre is a subclass of <MASK> .", "target": "compound"}
+{"text": "complex is written about in el panson . complex is a subclass of compound . <MASK> is written about in el panson .", "target": "compound"}
+{"text": "selenous anhydride is a oxide . oxide is a subclass of compound . selenous anhydride is a <MASK> .", "target": "compound"}
+{"text": "uranium(vi) oxide is a oxide . oxide is a subclass of compound . uranium(vi) oxide is a <MASK> .", "target": "compound"}
+{"text": "basic iron acetate is a complex . complex is a subclass of compound . basic iron acetate is a <MASK> .", "target": "compound"}
+{"text": "basic iron acetate is a salts . salts is a subclass of compound . basic iron acetate is a <MASK> .", "target": "compound"}
+{"text": "buna rubber is a polymer . polymer is a subclass of compound . buna rubber is a <MASK> .", "target": "compound"}
+{"text": "copper(ii) acetate is a complex . complex is a subclass of compound . copper(ii) acetate is a <MASK> .", "target": "compound"}
+{"text": "auf5 is a salts . salts is a subclass of compound . auf5 is a <MASK> .", "target": "compound"}
+{"text": "rp-54563 is a polymer . polymer is a subclass of compound . rp-54563 is a <MASK> .", "target": "compound"}
+{"text": "americium dioxide is a oxide . oxide is a subclass of compound . americium dioxide is a <MASK> .", "target": "compound"}
+{"text": "calcium resonium is a polymer . polymer is a subclass of compound . calcium resonium is a <MASK> .", "target": "compound"}
+{"text": "jeweller's rouge is a inorganic . inorganic is a subclass of compound . jeweller's rouge is a <MASK> .", "target": "compound"}
+{"text": "mineral is written about in el panson . mineral is a subclass of compound . <MASK> is written about in el panson .", "target": "compound"}
+{"text": "haze is a subclass of hip . hip is a subclass of chopper . haze is a subclass of <MASK> .", "target": "chopper"}
+{"text": "eve is written about in brockhaus and efron encyclopaedia . seth is a child of eve . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "seth"}
+{"text": "david is a politician by profession . solomon is a child of david . <MASK> is a politician by profession .", "target": "solomon"}
+{"text": "david is a huamn . solomon is a child of david . <MASK> is a huamn .", "target": "solomon"}
+{"text": "david is written about in brockhaus and efron encyclopaedia . solomon is a child of david . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "solomon"}
+{"text": "The religion of david is judaism . solomon is a child of david . The religion of <MASK> is judaism .", "target": "solomon"}
+{"text": "haydn is written about in brockhaus and efron encyclopaedia . haydn is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "handel is written about in brockhaus and efron encyclopaedia . handel is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "mozart is written about in brockhaus and efron encyclopaedia . mozart is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "tchaikovsky is written about in brockhaus and efron encyclopaedia . tchaikovsky is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "verdi is written about in brockhaus and efron encyclopaedia . verdi is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "beethoven is written about in brockhaus and efron encyclopaedia . beethoven is a genre of operatic . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "operatic"}
+{"text": "godfrey is a huamn . olaf is a child of godfrey . <MASK> is a huamn .", "target": "olaf"}
+{"text": "petya dubarova is a writers by profession . writers is a subclass of authorship . petya dubarova is a <MASK> by profession .", "target": "authorship"}
+{"text": "america on watch is a writers by profession . writers is a subclass of authorship . america on watch is a <MASK> by profession .", "target": "authorship"}
+{"text": "lord edward christian david gascoyne-cecil is a writers by profession . writers is a subclass of authorship . lord edward christian david gascoyne-cecil is a <MASK> by profession .", "target": "authorship"}
+{"text": "william e. kaufman is a writers by profession . writers is a subclass of authorship . william e. kaufman is a <MASK> by profession .", "target": "authorship"}
+{"text": "carl sadakichi hartmann is a writers by profession . writers is a subclass of authorship . carl sadakichi hartmann is a <MASK> by profession .", "target": "authorship"}
+{"text": "norbert pfretzschner is a writers by profession . writers is a subclass of authorship . norbert pfretzschner is a <MASK> by profession .", "target": "authorship"}
+{"text": "walter bullock is a writers by profession . writers is a subclass of authorship . walter bullock is a <MASK> by profession .", "target": "authorship"}
+{"text": "kaffee fasset is a writers by profession . writers is a subclass of authorship . kaffee fasset is a <MASK> by profession .", "target": "authorship"}
+{"text": "mehm\u00fbd bayaz\u00eed\u00ee is a writers by profession . writers is a subclass of authorship . mehm\u00fbd bayaz\u00eed\u00ee is a <MASK> by profession .", "target": "authorship"}
+{"text": "alex wayman is a writers by profession . writers is a subclass of authorship . alex wayman is a <MASK> by profession .", "target": "authorship"}
+{"text": "isyllus is a writers by profession . writers is a subclass of authorship . isyllus is a <MASK> by profession .", "target": "authorship"}
+{"text": "nils collett vogt is a writers by profession . writers is a subclass of authorship . nils collett vogt is a <MASK> by profession .", "target": "authorship"}
+{"text": "roberto leoni is a writers by profession . writers is a subclass of authorship . roberto leoni is a <MASK> by profession .", "target": "authorship"}
+{"text": "jerry dumas is a writers by profession . writers is a subclass of authorship . jerry dumas is a <MASK> by profession .", "target": "authorship"}
+{"text": "hermann lons is a writers by profession . writers is a subclass of authorship . hermann lons is a <MASK> by profession .", "target": "authorship"}
+{"text": "brian randolph greene is a writers by profession . writers is a subclass of authorship . brian randolph greene is a <MASK> by profession .", "target": "authorship"}
+{"text": "lieutenant bak is a writers by profession . writers is a subclass of authorship . lieutenant bak is a <MASK> by profession .", "target": "authorship"}
+{"text": "marina gershenovich is a writers by profession . writers is a subclass of authorship . marina gershenovich is a <MASK> by profession .", "target": "authorship"}
+{"text": "edward chad varah is a writers by profession . writers is a subclass of authorship . edward chad varah is a <MASK> by profession .", "target": "authorship"}
+{"text": "franciszek ksawery dmochowski is a writers by profession . writers is a subclass of authorship . franciszek ksawery dmochowski is a <MASK> by profession .", "target": "authorship"}
+{"text": "radoslav lopa\u0161i\u0107 is a writers by profession . writers is a subclass of authorship . radoslav lopa\u0161i\u0107 is a <MASK> by profession .", "target": "authorship"}
+{"text": "david dietz is a writers by profession . writers is a subclass of authorship . david dietz is a <MASK> by profession .", "target": "authorship"}
+{"text": "holden, david is a writers by profession . writers is a subclass of authorship . holden, david is a <MASK> by profession .", "target": "authorship"}
+{"text": "alberto girri is a writers by profession . writers is a subclass of authorship . alberto girri is a <MASK> by profession .", "target": "authorship"}
+{"text": "edward riehm is a writers by profession . writers is a subclass of authorship . edward riehm is a <MASK> by profession .", "target": "authorship"}
+{"text": "alfred shaughnessy is a writers by profession . writers is a subclass of authorship . alfred shaughnessy is a <MASK> by profession .", "target": "authorship"}
+{"text": "laura joh rowland is a writers by profession . writers is a subclass of authorship . laura joh rowland is a <MASK> by profession .", "target": "authorship"}
+{"text": "margaret wertheim is a writers by profession . writers is a subclass of authorship . margaret wertheim is a <MASK> by profession .", "target": "authorship"}
+{"text": "hermann von liebenau is a writers by profession . writers is a subclass of authorship . hermann von liebenau is a <MASK> by profession .", "target": "authorship"}
+{"text": "zaghloul an-naggar is a writers by profession . writers is a subclass of authorship . zaghloul an-naggar is a <MASK> by profession .", "target": "authorship"}
+{"text": "bil kurtis is a writers by profession . writers is a subclass of authorship . bil kurtis is a <MASK> by profession .", "target": "authorship"}
+{"text": "mhemry/jack fritscher is a writers by profession . writers is a subclass of authorship . mhemry/jack fritscher is a <MASK> by profession .", "target": "authorship"}
+{"text": "marina endicott is a writers by profession . writers is a subclass of authorship . marina endicott is a <MASK> by profession .", "target": "authorship"}
+{"text": "katherine dorothea duncan-jones is a writers by profession . writers is a subclass of authorship . katherine dorothea duncan-jones is a <MASK> by profession .", "target": "authorship"}
+{"text": "ludwig philippson is a writers by profession . writers is a subclass of authorship . ludwig philippson is a <MASK> by profession .", "target": "authorship"}
+{"text": "joao paulo cuenca is a writers by profession . writers is a subclass of authorship . joao paulo cuenca is a <MASK> by profession .", "target": "authorship"}
+{"text": "lisa saint aubin de teran is a writers by profession . writers is a subclass of authorship . lisa saint aubin de teran is a <MASK> by profession .", "target": "authorship"}
+{"text": "bruttidius niger is a writers by profession . writers is a subclass of authorship . bruttidius niger is a <MASK> by profession .", "target": "authorship"}
+{"text": "william owens (admiral) is a writers by profession . writers is a subclass of authorship . william owens (admiral) is a <MASK> by profession .", "target": "authorship"}
+{"text": "john zimeke is a writers by profession . writers is a subclass of authorship . john zimeke is a <MASK> by profession .", "target": "authorship"}
+{"text": "ernst joachim foerster is a writers by profession . writers is a subclass of authorship . ernst joachim foerster is a <MASK> by profession .", "target": "authorship"}
+{"text": "heinrich anacker is a writers by profession . writers is a subclass of authorship . heinrich anacker is a <MASK> by profession .", "target": "authorship"}
+{"text": "tuvya ruebner is a writers by profession . writers is a subclass of authorship . tuvya ruebner is a <MASK> by profession .", "target": "authorship"}
+{"text": "allen chalmers is a writers by profession . writers is a subclass of authorship . allen chalmers is a <MASK> by profession .", "target": "authorship"}
+{"text": "yelena tregubova is a writers by profession . writers is a subclass of authorship . yelena tregubova is a <MASK> by profession .", "target": "authorship"}
+{"text": "valentin ickelshamer is a writers by profession . writers is a subclass of authorship . valentin ickelshamer is a <MASK> by profession .", "target": "authorship"}
+{"text": "horst lange is a writers by profession . writers is a subclass of authorship . horst lange is a <MASK> by profession .", "target": "authorship"}
+{"text": "yasuo tanaka (politician) is a writers by profession . writers is a subclass of authorship . yasuo tanaka (politician) is a <MASK> by profession .", "target": "authorship"}
+{"text": "nicholas cauchi is a writers by profession . writers is a subclass of authorship . nicholas cauchi is a <MASK> by profession .", "target": "authorship"}
+{"text": "erics is a writers by profession . writers is a subclass of authorship . erics is a <MASK> by profession .", "target": "authorship"}
+{"text": "pudding is a subclass of dish (food)/comments . pudding is a subclass of dessert . <MASK> is a subclass of dish (food)/comments .", "target": "dessert"}
+{"text": "om ali is a pudding . pudding is a subclass of dessert . om ali is a <MASK> .", "target": "dessert"}
+{"text": "diplomat pudding is a subclass of pudding . pudding is a subclass of dessert . diplomat pudding is a subclass of <MASK> .", "target": "dessert"}
+{"text": "kamby arro is a subclass of pudding . pudding is a subclass of dessert . kamby arro is a subclass of <MASK> .", "target": "dessert"}
+{"text": "ernest william mcfarland is a teller by profession . teller is a subclass of clerk . ernest william mcfarland is a <MASK> by profession .", "target": "clerk"}
+{"text": "teller is a professions . teller is a subclass of clerk . <MASK> is a professions .", "target": "clerk"}
+{"text": "dice is a video game development party . ea owns dice . <MASK> is a video game development party .", "target": "ea"}
+{"text": "toilet train is a topic of restroom . restroom consists of toilets . toilet train is a topic of <MASK> .", "target": "toilets"}
+{"text": "\u03c9 is written about in brockhaus and efron encyclopaedia . \u03c9 is based on v . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "v"}
+{"text": "\u03c9 is based on attoampere . \u03c9 is based on v . <MASK> is based on attoampere .", "target": "v"}
+{"text": "wb is a si supplementary unit . wb is based on v . <MASK> is a si supplementary unit .", "target": "v"}
+{"text": "\u03c9 is a si supplementary unit . \u03c9 is based on v . <MASK> is a si supplementary unit .", "target": "v"}
+{"text": "lesbian is a sexual orientation . lesbian is a subclass of homosexuality . <MASK> is a sexual orientation .", "target": "homosexuality"}
+{"text": "lesbian is a subclass of lgbtqq . lesbian is a subclass of homosexuality . <MASK> is a subclass of lgbtqq .", "target": "homosexuality"}
+{"text": "polish alphabet consists of \u0142 . \u0142 consists of \u2113 . polish alphabet consists of <MASK> .", "target": "\u2113"}
+{"text": "portrait of the planets is a painting of planets . planets consists of jupiter . portrait of the planets is a painting of <MASK> .", "target": "jupiter"}
+{"text": "lutheran is a religion . lutheran is a subclass of protestants . <MASK> is a religion .", "target": "protestants"}
+{"text": "The religion of pennslyvania dutch is lutheran . lutheran is a subclass of protestants . The religion of pennslyvania dutch is <MASK> .", "target": "protestants"}
+{"text": "reformed is a religion . reformed is a subclass of protestants . <MASK> is a religion .", "target": "protestants"}
+{"text": "calligra stage is a app . app consists of program . calligra stage is a <MASK> .", "target": "program"}
+{"text": "console app is a subclass of app . app consists of program . console app is a subclass of <MASK> .", "target": "program"}
+{"text": "bonnie++ is a app . app consists of program . bonnie++ is a <MASK> .", "target": "program"}
+{"text": "freefoam is a app . app consists of program . freefoam is a <MASK> .", "target": "program"}
+{"text": "cal is hosted in united stated . uc owns cal . <MASK> is hosted in united stated .", "target": "uc"}
+{"text": "bun kebab is a hamburger . hamburger is a subclass of sandwich . bun kebab is a <MASK> .", "target": "sandwich"}
+{"text": "lemma (mathematics) is a subclass of theorem . theorem is a subclass of proposition . lemma (mathematics) is a subclass of <MASK> .", "target": "proposition"}
+{"text": "hypothetical is a subclass of premise . premise is a subclass of proposition . hypothetical is a subclass of <MASK> .", "target": "proposition"}
+{"text": "venus is a huamn . venus is influenced by bowie . <MASK> is a huamn .", "target": "bowie"}
+{"text": "venus is a songwriting by profession . venus is influenced by bowie . <MASK> is a songwriting by profession .", "target": "bowie"}
+{"text": "venus is a music production (music industry) by profession . venus is influenced by bowie . <MASK> is a music production (music industry) by profession .", "target": "bowie"}
+{"text": "queen of controversy is influenced by venus . venus is influenced by bowie . queen of controversy is influenced by <MASK> .", "target": "bowie"}
+{"text": "venus is a painoist by profession . venus is influenced by bowie . <MASK> is a painoist by profession .", "target": "bowie"}
+{"text": "french destroyer trombe is a destroyers . destroyers is a subclass of warship . french destroyer trombe is a <MASK> .", "target": "warship"}
+{"text": "battleship is written about in el panson . battleship is a subclass of warship . <MASK> is written about in el panson .", "target": "warship"}
+{"text": "cruiser is written about in el panson . cruiser is a subclass of warship . <MASK> is written about in el panson .", "target": "warship"}
+{"text": "galley is written about in brockhaus and efron encyclopaedia . galley is a subclass of warship . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "warship"}
+{"text": "gwiseon is a subclass of galley . galley is a subclass of warship . gwiseon is a subclass of <MASK> .", "target": "warship"}
+{"text": "destroyers is written about in el panson . destroyers is a subclass of warship . <MASK> is written about in el panson .", "target": "warship"}
+{"text": "three ages of man is a painting of women . women is a subclass of adults . three ages of man is a painting of <MASK> .", "target": "adults"}
+{"text": "terence is written about in el panson . terence is a genre of comedic . <MASK> is written about in el panson .", "target": "comedic"}
+{"text": "terra is written about in brockhaus and efron encyclopaedia . terra consists of europe . <MASK> is written about in brockhaus and efron encyclopaedia .", "target": "europe"}
+{"text": "rug is hosted in netherlands (european territory) . rug is located at groningen . <MASK> is hosted in netherlands (european territory) .", "target": "groningen"}
+{"text": "r\u00eave de printemps is a painting of forested . forested consists of trees . r\u00eave de printemps is a painting of <MASK> .", "target": "trees"}
+{"text": "beneath the snow encumbered branches is a painting of forested . forested consists of trees . beneath the snow encumbered branches is a painting of <MASK> .", "target": "trees"}
+{"text": "echo and narcissus (waterhouse painting) is a painting of forested . forested consists of trees . echo and narcissus (waterhouse painting) is a painting of <MASK> .", "target": "trees"}
+{"text": "la nymphe surprise is a painting of forested . forested consists of trees . la nymphe surprise is a painting of <MASK> .", "target": "trees"}
+{"text": "lesbefriend is a subclass of homosexuality . homosexuality is a subclass of lgbt . lesbefriend is a subclass of <MASK> .", "target": "lgbt"}
+{"text": "the bisexual option is a genre of bisexual . bisexual is a subclass of lgbt . the bisexual option is a genre of <MASK> .", "target": "lgbt"}
+{"text": "\"jubilee medal \"\"seventy years of victory in the great patriotic war 1941\u20131945\"\" is hosted in cis . cis consists of russia . jubilee medal \"\"seventy years of victory in the great patriotic war 1941\u20131945\"\" is hosted in <MASK> .\"", "target": "russia"}
+{"text": "juno award for entertainer of the year is a subject of music . music is a subclass of entertain . juno award for entertainer of the year is a subject of <MASK> .", "target": "entertain"}
+{"text": "boy with a spinning-top is a painting of play . play is a subclass of entertain . boy with a spinning-top is a painting of <MASK> .", "target": "entertain"}

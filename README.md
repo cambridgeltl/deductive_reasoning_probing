@@ -1,5 +1,5 @@
 # Can Pretrained Language Models (Yet) Reason Deductively?
-**Authors**: Zhangdie Yuan, Songbo Hu, Ivan Vulić, Anna Korhonen and Zaiqiao Meng
+**Authors**: Zhangdie Yuan, Songbo Hu, Ivan Vulić, Anna Korhonen, and Zaiqiao Meng
 
 This repository is constantly being updated. Contributions, feedbacks, comments and suggestions are welcome!
 
